@@ -16,16 +16,16 @@ Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).
 *Digital Studies / Le champ num´erique*, 15.1.    
 [URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703)  
 - **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
-Solo-authored article (2025). 
-*Transformative Works and Cultures*, vol. 46.
+Solo-authored article (2025).  
+*Transformative Works and Cultures*, vol. 46.  
 [URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643)  
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**  
 Solo-authored article (2025).  
-*Journal of Computational Literary Studies*, 4.1.
+*Journal of Computational Literary Studies*, 4.1.  
 [URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)  
-- **MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth**
-Solo-authored article (2024). 
-*Digital Humanities Benelux Journal*, vol. 6.
+- **MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth**  
+Solo-authored article (2024).  
+*Digital Humanities Benelux Journal*, vol. 6.  
 [PDF](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf)      
 - **Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments**  
 Solo-authored article (2023).  
@@ -33,7 +33,7 @@ Solo-authored article (2023).
 [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) · [DOI](https://doi.org/10.1386/jfs_00082_1)  
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
 Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).    
-*Journal of Computational Literary Studies*, 1.1
+*Journal of Computational Literary Studies*, 1.1  
 [URL](https://jcls.io/article/id/104/) · [DOI](https://doi.org/10.48694/jcls.104) · [PDF](https://jcls.io/article/104/galley/3481/download/)  
 
 
