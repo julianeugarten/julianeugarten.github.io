@@ -1,6 +1,6 @@
 title: Julia Neugarten
 url: "https://julianeugarten.github.io"
-baseurl: "/julianeugarten"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,13 +17,13 @@ sass:
 
 nav:
  - name: "About"
-   link: "{{ site.baseurl }}/"
+   link: "/"
  - name: "Publications"
-   link: "{{ site.baseurl }}/publications/"
+   link: "/publications/"
  - name: "Creative Writing"
-   link: "{{ site.baseurl }}/creativewriting/"
+   link: "/creativewriting/"
  - name: "Contact"
-   link: "{{ site.baseurl }}/contact/"
+   link: "/contact/"
 
 # nav:
 #  - name: "About"
