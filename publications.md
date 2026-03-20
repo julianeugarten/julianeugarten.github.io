@@ -26,6 +26,10 @@ Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/
 
 ### Peer-reviewed conference presentations
 
+- forthcoming: *Problems and Prospects of Computational Fanfiction Research*  
+Mia Jacobsen, Julia Neugarten et al., Full-day workshop at DH Benelux 2026.  
+- forthcoming: *Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement*
+Mia Jacobsen, Julia Neugarten et al., Short paper at DH Benelux 2026.  
 - *Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms*  
 Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni, Long paper at CHR2025.  
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
