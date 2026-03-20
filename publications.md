@@ -6,13 +6,16 @@ permalink: /publications/
 
 ## Publications
 
-<details>
-<summary>### Peer-reviewed Journal Articles </summary>
 
-- *The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül*  
-Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert, forthcoming in Digital Scholarship in the Humanities,(2026).   
-- *Fifty Shades of Twilight: A Computational Approach to Textual Adaptation*  
-Julia Neugarten, Barbara Bordalejo and Joris J. van Zundert in [Digital Studies / Le champ num´erique, 15.1](https://www.digitalstudies.org/article/id/18703/)(2025).    
+### Peer-reviewed Journal Articles
+
+- **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
+Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026). *Digital Scholarship in the Humanities*.  
+- **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
+Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025) *Digital Studies / Le champ num´erique, 15.1(https://www.digitalstudies.org/article/id/18703/)*.    
+[URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703)  
+
+
 - *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction*  
 Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc/article/view/2643), vol. 46 (2025).   
 - *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*,  
