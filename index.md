@@ -25,7 +25,7 @@ Julia Neugarten, Barbara Bordalejo and Joris J. van Zundert in [Digital Studies 
 - *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction*  
 Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc/article/view/2643), vol. 46 (2025).   
 
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*,  
+- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*  
 Solo-authored article in the [Journal of Computational Literary Studies, 4.1](https://jcls.io/article/id/4208/) (2025).  
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).

@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications
 
-### Peer-reviewed journal articles
+### Peer-reviewed Journal Articles
 
 - *The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül*  
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert, forthcoming in Digital Scholarship in the Humanities,(2026).   
@@ -24,7 +24,7 @@ Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intelle
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
 
-### Peer-reviewed conference presentations
+### Peer-reviewed Conference Papers and Presentations
 
 - forthcoming: *Problems and Prospects of Computational Fanfiction Research*  
 Mia Jacobsen, Julia Neugarten et al., Full-day workshop at DH Benelux 2026.  
@@ -78,8 +78,30 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
 
-#### Other solo presentations  
+#### Non Peer-reviewed Publications
 
+- *Fanfictie in de Klas* (forthcoming 2026)  
+Solo-authored article in *Levende Talen Magazine*  
+- *Interview with the Fan: A dialogue between myself as a fan and myself as a researcher* (2026)  
+Solo-authored article in [Radical Creativities, 2](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)
+- *Fanfictie: Van Wie Is Jouw Verhaal?* (2025)  
+Solo-authored article in [Vooys: Tijdschrift voor Letteren, 43.3](https://tijdschriftvooys.nl/vooys-43-3-op-het-internet-is-uit/)
+- *"Impressed by Reading" Workshop Report* (2025)  
+Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
+- *Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm* (2024)  
+Solo-authored article in [De Moon: Tijdschrift over
+Oudheidsreceptie in Nederland, 1.1](https://www.de-moon.nl/)
+- *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
+Solo-authored article in the graduate journal [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)   
+- *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
+Solo-authored article in the graduate journal [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)
+
+#### Non Peer-reviewed Presentations  
+
+- *Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth* (2026)  
+Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, Germany   
+- *Feveruary: Understanding SickFic* (2025)  
+[Poster at the OSL Research Day](https://zenodo.org/records/17464187)Utrecht University, the Netherlands  
 - *Fanfiction about Greek Myth: A Computational Exploration* (2025)
 Presentation at the CORE Collective, Aarhus University, Denmark  
 - *The Impact of Fanfiction* (2025)  
@@ -96,14 +118,17 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam  
 
-#### Other Publications
+### Awards and Fellowships  
 
-- *"Impressed by Reading" Workshop Report* (2025)  
-Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
-- *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
-Article in the [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/), solo-authored article in graduate journal     
-- *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
-Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81), solo-authored article in graduate journal       
+- [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/) (2026)
+- OIKOS Travel Award (2025)
+- [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
+- [Christine Mohrmann Stipend](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg) (2025)  
+- Stipend for a Short-Term Scientific Mission (2025) awarded by the Special Interest Group Digital Literary Studies   
+- OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
+- [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
+- [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
+
 
 #### Reviews
 
@@ -116,7 +141,8 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Research Projects 
 
-- 2022-2026: PhD-candidate in [Gods, Heroes, Myths: Anchoring and Innovating Classical Motifs in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction), part of [Anchoring Innovation](https://anchoringinnovation.nl/)    
+- 2026: *Gandalf Verslaat Grunberg: Waarom Jongeren Liever Fanfictie Lezen*, [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)  
+- 2022-2026: PhD-candidate in [Anchoring and Innovating Greek Myth in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction), part of [Anchoring Innovation](https://anchoringinnovation.nl/)    
 - 2024: [CLS Infra Fellow](https://clsinfra.io/tna-fellow-julia-neugarten/) at the [Ghent Center for Digital Humanities](https://www.ghentcdh.ugent.be/) in the project *Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth* [An activity report for the fellowship is available here](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf).  
 - 2020-2022: Intern and later affiliated researcher in [Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)    
 - 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
@@ -124,8 +150,9 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 
 ### Valorization 
 
+- March 2026: Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) about antiquity online  
 - August 2025: Blogpost [Reading with Computers: The Conference of Computational Literary Studies 2025](https://dls.hypotheses.org/2046) on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies  
-- Spring 2025 - Autumn 2026: [Faces of Science](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
+- Spring 2025 - present: [Faces of Science](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
 - April 2025: Blogpost [Fanfiction: Shared Universes](https://culture-weekly.com/2025/04/15/fanfiction-shared-universes/) on *Culture Weekly* together with Rūta Tidriķe  
 - January 2025: Masterclass about fanfiction for secondary education: [Fanfictie: wie, wat, waar, waarom?](https://www.ru.nl/over-ons/agenda/fanfictie-wie-wat-waar-waarom)  
 - December 2024: Creative Culture Talk at LUX Nijmegen: [Fanfiction: Shared Universes](https://www.lux-nijmegen.nl/programma/creative-culture-talk-fanfiction-shared-universes/)  
@@ -133,7 +160,6 @@ Article in the [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1
 - August 2024: Interview about my research with Timo Epping of the Oudheid (Antiquity) Podcast, [available on Spotify](https://open.spotify.com/episode/2DfF797F8MOt7ZSpGGeDw2?si=iay1PgYNRUKoQ0GmAZS8Sw)  
 - July 2024: [Interview about my research with Aôthen Magazine](https://aothenmagazine.com/#neugartenmyth)  
 - June 2024: [Interview to promote the Transnational Access Fellowship](https://www.youtube.com/watch?v=ewWzlg61Fxw)  
-- May 2024: Article "Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm" in [De Moon: Het Tijdschrift voor Oudheidsreceptie in Nederland](http://www.de-moon.nl/), 1.1
 - May 2024: Blogpost [Ficcability: Television, Fanfiction and Feelings](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/) on our department's blog, [Culture Weekly](https://culture-weekly.com/)  
 - April 2024: Conducted a small survey among colleagues about the process of academic writing: [The 2024 Writing Questionnaire](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/), published on our department's blog, [Culture Weekly](https://culture-weekly.com/)  
 - February 2024: Masterclass about fanfiction for pupils in secondary school who were enrolled in the *Track in Leren* program offered by VO-Achterhoek
@@ -148,24 +174,16 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 ### Teaching in the BA Arts & Culture Studies at Radboud University  
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
-- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024 and again in spring 2025)  
-- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures)   
+- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024 2025 and 2026)  
+- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures on *Truth & Falsehood* and *Data Bias*)   
 
 ### Teaching in Other Programs and Organizations
 
+- January 2026: Invited online lecture on *Fan Studies Methodologies* in the BA courses *Animation* and *3D Animation* at the Dun Laoghaire Institute of Art Design + Technology  
 - February 2024: invited mini guest lecture on *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University   
-- Autumn 2023: Guest lecturer in the career seminar for Literary Studies Lab (course in the rMA Literary Studies) at the University of Amsterdam    
+- Autumn 2023 and 2025: Guest lecturer in the career seminar for Literary Studies Lab (course in the rMA Literary Studies) at the University of Amsterdam    
 - Spring 2023: guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen    
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis  
-
-### Awards and Fellowships  
-
-- OIKOS Travel Award (2025)
-- [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
-- [Christine Mohrmann Stipend](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg) (2025)  
-- OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
-- [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
-- [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
 
 ### Academic Service and Professional Memberships  
 
@@ -175,8 +193,8 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (summer 2023-present)  
 - member of OSL, the Dutch Research School for Literary Studies (November 2022-present)  
 - associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
-- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (November 2022-2024)  
-- conducted peer review for the *Journal of Fandom Studies*, the *Digital Humanities Benelux* conference and journal, and the journal *New Media & Society*  
+- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (2022-2024)  
+- Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*  
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
 - Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-2024) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
