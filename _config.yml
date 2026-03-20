@@ -17,10 +17,20 @@ sass:
 
 nav:
  - name: "About"
-   link: "/julianeugarten/"
+   link: "{{ site.baseurl }}/"
  - name: "Publications"
-   link: "/julianeugarten/publications/"
+   link: "{{ site.baseurl }}/publications/"
  - name: "Creative Writing"
-   link: "/julianeugarten/creativewriting/"
+   link: "{{ site.baseurl }}/creativewriting/"
  - name: "Contact"
-   link: "/julianeugarten/contact/"
+   link: "{{ site.baseurl }}/contact/"
+
+# nav:
+#  - name: "About"
+#    link: "/julianeugarten/"
+#  - name: "Publications"
+#    link: "/julianeugarten/publications/"
+#  - name: "Creative Writing"
+#    link: "/julianeugarten/creativewriting/"
+#  - name: "Contact"
+#    link: "/julianeugarten/contact/"
