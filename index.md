@@ -32,6 +32,6 @@ Solo-authored article (2025).
 *Journal of Computational Literary Studies*, 4.1.  
 [URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)   
 
-For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).
+For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/publications/).
 
 ---
