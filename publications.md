@@ -12,22 +12,30 @@ permalink: /publications/
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026). *Digital Scholarship in the Humanities*.  
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
-Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025) *Digital Studies / Le champ num´erique, 15.1(https://www.digitalstudies.org/article/id/18703/)*.    
+Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
+*Digital Studies / Le champ num´erique*, 15.1.    
 [URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703)  
+- **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
+Solo-authored article (2025). 
+*Transformative Works and Cultures*, vol. 46.
+[URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643)  
+- **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**  
+Solo-authored article (2025).  
+*Journal of Computational Literary Studies*, 4.1.
+[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)  
+- **MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth**
+Solo-authored article (2024). 
+*Digital Humanities Benelux Journal*, vol. 6.
+[PDF](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf)      
+- **Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments**  
+Solo-authored article (2023).  
+*Journal of Fandom Studies*, 11.2-3  
+[URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) · [DOI](https://doi.org/10.1386/jfs_00082_1)  
+- **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
+Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).    
+*Journal of Computational Literary Studies*, 1.1
+[URL](https://jcls.io/article/id/104/) · [DOI](https://doi.org/10.48694/jcls.104) · [PDF](https://jcls.io/article/104/galley/3481/download/)  
 
-
-- *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction*  
-Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc/article/view/2643), vol. 46 (2025).   
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*,  
-Solo-authored article in the [Journal of Computational Literary Studies, 4.1](https://jcls.io/article/id/4208/) (2025).  
-- [*MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth*](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf) (2024)    
-Solo-authored article in the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/), Vol. 6: Crossing Borders: Digital Humanities Research Across Languages and Modalities   
-- *Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments* (2023) 
-Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) 
-- *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
-Marijn Koolen, Julia Neugarten, Peter Boot  
-Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
-</details>
 
 ### Peer-reviewed Conference Papers and Presentations 
 
