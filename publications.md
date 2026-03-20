@@ -232,3 +232,36 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 </div>
 
 ---
+
+<style>
+.pub-section {
+  margin-bottom: 2rem;
+}
+
+#filters button {
+  margin-right: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  cursor: pointer;
+}
+
+#filters button:hover {
+  background: #eee;
+}
+</style>
+
+<script>
+function filter(category) {
+  document.querySelectorAll('.pub-section').forEach(section => {
+    section.style.display =
+      section.dataset.category === category ? 'block' : 'none';
+  });
+}
+
+function showAll() {
+  document.querySelectorAll('.pub-section').forEach(section => {
+    section.style.display = 'block';
+  });
+}
+</script>
