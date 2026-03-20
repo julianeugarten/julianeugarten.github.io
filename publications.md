@@ -6,7 +6,8 @@ permalink: /publications/
 
 ## Publications
 
-### Peer-reviewed Journal Articles <!-- journal -->
+<details>
+<summary>### Peer-reviewed Journal Articles </summary>
 
 - *The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül*  
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert, forthcoming in Digital Scholarship in the Humanities,(2026).   
@@ -23,8 +24,9 @@ Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intelle
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
+</details>
 
-### Peer-reviewed Conference Papers and Presentations <!-- conference -->
+### Peer-reviewed Conference Papers and Presentations 
 
 - forthcoming: *Problems and Prospects of Computational Fanfiction Research*  
 Mia Jacobsen, Julia Neugarten et al., Full-day workshop at DH Benelux 2026.  
@@ -78,7 +80,7 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
 
-#### Non Peer-reviewed Publications <!-- other_pubs -->
+### Non Peer-reviewed Publications 
 
 - *Fanfictie in de Klas* (forthcoming 2026)  
 Solo-authored article in *Levende Talen Magazine*  
@@ -96,7 +98,7 @@ Solo-authored article in the graduate journal [Frame Journal of Literary Studies
 - *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
 Solo-authored article in the graduate journal [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)
 
-#### Non Peer-reviewed Presentations  <!-- other-pres -->
+### Non Peer-reviewed Presentations  
 
 - *Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth* (2026)  
 Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, Germany   
@@ -118,7 +120,7 @@ Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam  
 
-### Awards and Fellowships  <!-- awards -->
+### Awards and Fellowships  
 
 - [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/) (2026)
 - OIKOS Travel Award (2025)
@@ -130,7 +132,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
 
 
-#### Reviews <!-- reviews -->
+#### Reviews 
 
 - Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz (2025)  
 [Journal of Fandom Studies 13.1](https://doi.org/10.1386/jfs_00112_5)  
@@ -139,7 +141,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf)    
 
-### Research Projects <!-- projects -->
+### Research Projects 
 
 - 2026: *Gandalf Verslaat Grunberg: Waarom Jongeren Liever Fanfictie Lezen*, [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)  
 - 2022-2026: PhD-candidate in [Anchoring and Innovating Greek Myth in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction), part of [Anchoring Innovation](https://anchoringinnovation.nl/)    
@@ -148,7 +150,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
 - 2021: Research Assistant in [TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)  
 
-### Valorization <!-- valorization -->
+### Valorization
 
 - March 2026: Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) about antiquity online  
 - August 2025: Blogpost [Reading with Computers: The Conference of Computational Literary Studies 2025](https://dls.hypotheses.org/2046) on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies  
@@ -171,13 +173,13 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - 2022: co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
-### Teaching in the BA Arts & Culture Studies at Radboud University  <!-- teaching -->
+### Teaching in the BA Arts & Culture Studies at Radboud University  
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
 - One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024 2025 and 2026)  
 - Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures on *Truth & Falsehood* and *Data Bias*)   
 
-### Teaching in Other Programs and Organizations <!-- teaching -->
+### Teaching in Other Programs and Organizations 
 
 - January 2026: Invited online lecture on *Fan Studies Methodologies* in the BA courses *Animation* and *3D Animation* at the Dun Laoghaire Institute of Art Design + Technology  
 - February 2024: invited mini guest lecture on *Fanfiction, Health & Illness* in the MA course *Health and Illness* at Radboud University   
@@ -185,7 +187,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Spring 2023: guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen    
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis  
 
-### Academic Service and Professional Memberships  <!-- service -->
+### Academic Service and Professional Memberships  
 
 - member of the [European Association for Digital Humanities (EADH)](https://eadh.org/) (2025)      
 - co-organizer of the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) (October 2024)      
@@ -199,39 +201,4 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-2024) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
 
-<script>
-function filter(category) {
-  let show = false;
-
-  document.querySelectorAll("h3").forEach(h => {
-    const match = h.innerHTML.includes("<!-- " + category + " -->");
-
-    let next = h.nextElementSibling;
-
-    if (match) {
-      h.style.display = "block";
-      show = true;
-
-      // show all content until next heading
-      while (next && !next.tagName.match(/^H[1-6]$/)) {
-        next.style.display = "block";
-        next = next.nextElementSibling;
-      }
-    } else {
-      h.style.display = "none";
-
-      while (next && !next.tagName.match(/^H[1-6]$/)) {
-        next.style.display = "none";
-        next = next.nextElementSibling;
-      }
-    }
-  });
-}
-
-function showAll() {
-  document.querySelectorAll("h3, h4, p, ul, li").forEach(el => {
-    el.style.display = "block";
-  });
-}
-</script>
 ---
