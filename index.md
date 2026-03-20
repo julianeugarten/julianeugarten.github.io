@@ -19,14 +19,18 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 ## Recent Research Output
 
-- *Fifty Shades of Twilight: A Computational Approach to Textual Adaptation*  
-Julia Neugarten, Barbara Bordalejo and Joris J. van Zundert in [Digital Studies / Le champ num´erique, 15.1](https://www.digitalstudies.org/article/id/18703/)(2025).  
-
-- *Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction*  
-Solo-authored article in [Transformative Works and Cultures](https://journal.transformativeworks.org/index.php/twc/article/view/2643), vol. 46 (2025).   
-
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*  
-Solo-authored article in the [Journal of Computational Literary Studies, 4.1](https://jcls.io/article/id/4208/) (2025).  
+- **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
+Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
+*Digital Studies / Le champ num´erique*, 15.1.    
+[URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703)  
+- **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
+Solo-authored article (2025).  
+*Transformative Works and Cultures*, vol. 46.  
+[URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643)  
+- **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**  
+Solo-authored article (2025).  
+*Journal of Computational Literary Studies*, 4.1.  
+[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)   
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/julianeugarten/publications/).
 
