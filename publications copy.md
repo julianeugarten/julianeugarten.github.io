@@ -4,21 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<div id="filters">
-  <button onclick="showAll()">All</button>
-  <button onclick="filter('journal')">Journal Articles</button>
-  <button onclick="filter('conference')">Conferences</button>
-  <button onclick="filter('other-pubs')">Other Publications</button>
-  <button onclick="filter('other-pres')">Other Presentations</button>
-  <button onclick="filter('awards')">Awards & Fellowships</button>
-  <button onclick="filter('reviews')">Reviews</button>
-  <button onclick="filter('valorization')">Valorization</button>  
-  <button onclick="filter('teaching')">Teaching</button>
-  <button onclick="filter('service')">Academic Service and Professional Memberships </button>
-</div>
-
 ## Publications
-<div class="pub-section" data-category="journal">
+
 ### Peer-reviewed Journal Articles
 
 - *The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül*  
@@ -36,9 +23,7 @@ Solo-authored article in the [Journal of Fandom Studies, 11.2-3](https://intelle
 - *“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews* (2022)  
 Marijn Koolen, Julia Neugarten, Peter Boot  
 Article in the [Journal of Computational Literary Studies, 1.1](https://jcls.io/article/id/104/)  
-</div>
 
-<div class="pub-section" data-category="conference">
 ### Peer-reviewed Conference Papers and Presentations
 
 - forthcoming: *Problems and Prospects of Computational Fanfiction Research*  
@@ -92,9 +77,7 @@ Short presentation at the conference [Digital Humanities 2022](https://dh2022.dh
 - *Reading Impact in Online Book Reviews: Challenges and Prospects* (2022)  
 Boot, P., Fialho, O., Koolen, M., Neugarten, J., Van Hage, W.R.  
 Short presentation, part of a panel at the conference [Digital Humanities 2022](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
-</div>
 
-<div class="pub-section" data-category="other-pubs">
 #### Non Peer-reviewed Publications
 
 - *Fanfictie in de Klas* (forthcoming 2026)  
@@ -112,9 +95,7 @@ Oudheidsreceptie in Nederland, 1.1](https://www.de-moon.nl/)
 Solo-authored article in the graduate journal [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)   
 - *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
 Solo-authored article in the graduate journal [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)
-</div>
 
-<div class="pub-section" data-category="other-pres">
 #### Non Peer-reviewed Presentations  
 
 - *Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth* (2026)  
@@ -136,9 +117,7 @@ Hybrid presentation on the research I did as part of my TNA fellowship with the 
 Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.it/pag/39287) at Ca'Foscari University. Available to view [on the CLARIAH website](https://www.clariah.nl/news/online-fanfiction-communities)  
 - *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam  
-</div>
 
-<div class="pub-section" data-category="awards">
 ### Awards and Fellowships  
 
 - [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/) (2026)
@@ -149,9 +128,8 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
 - [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
 - [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
-</div>
 
-<div class="pub-section" data-category="reviews">
+
 #### Reviews
 
 - Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz (2025)  
@@ -160,9 +138,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 [Tijdschrift voor Geschiedenis 136.2](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG)  
 - Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
 [Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf)    
-</div>
 
-<div class="pub-section" data-category="projects">
 ### Research Projects 
 
 - 2026: *Gandalf Verslaat Grunberg: Waarom Jongeren Liever Fanfictie Lezen*, [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)  
@@ -171,9 +147,7 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - 2020-2022: Intern and later affiliated researcher in [Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)    
 - 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
 - 2021: Research Assistant in [TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)  
-</div>
 
-<div class="pub-section" data-category="valorization">
 ### Valorization 
 
 - March 2026: Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) about antiquity online  
@@ -195,11 +169,8 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - November 2022: [my PhD-project was featured](https://twitter.com/NL_Wetenschap/status/1590658361217150984) as part of the Anchoring Innovation Twitter-takeover of [NL_Wetenschap](https://twitter.com/NL_Wetenschap)   
 - From the start of the project until the autumn of 2022, I managed the social media presence and [blog for Impact & Fiction](https://impactandfiction.huygens.knaw.nl/)  
 - 2022: co-authored the blogpost: [Zijn de bots van NBD Biblion een goede ontwikkeling?](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
-with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert. 
+with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.  
 
-</div>
-
-<div class="pub-section" data-category="teaching">
 ### Teaching in the BA Arts & Culture Studies at Radboud University  
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
@@ -213,9 +184,7 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Autumn 2023 and 2025: Guest lecturer in the career seminar for Literary Studies Lab (course in the rMA Literary Studies) at the University of Amsterdam    
 - Spring 2023: guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen    
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis  
-</div>
 
-<div class="pub-section" data-category="service">
 ### Academic Service and Professional Memberships  
 
 - member of the [European Association for Digital Humanities (EADH)](https://eadh.org/) (2025)      
@@ -229,6 +198,6 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
 - Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-2024) 
 - 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
-</div>
+
 
 ---
