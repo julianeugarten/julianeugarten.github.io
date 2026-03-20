@@ -8,6 +8,7 @@ permalink: /publications/
 
 
 ### Peer-reviewed Journal Articles
+<b>TEST BOLD</b>
 <li style="margin-bottom: 1.2em;">
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026). *Digital Scholarship in the Humanities*.  
