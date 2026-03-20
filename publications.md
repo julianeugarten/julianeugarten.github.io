@@ -8,9 +8,10 @@ permalink: /publications/
 
 
 ### Peer-reviewed Journal Articles
-
+<li style="margin-bottom: 1.2em;">
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026). *Digital Scholarship in the Humanities*.  
+</li>
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ num´erique*, 15.1.    
