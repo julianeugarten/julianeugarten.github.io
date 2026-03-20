@@ -198,18 +198,20 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 - Spring 2023: guest lecture in the MA course Computational Literary Studies at the [University of Antwerp](https://www.uantwerpen.be/en/), together with my former colleague Marijn Koolen    
 - At the [Huygens Institute](https://www.huygens.knaw.nl/en/) I co-supervised several students who were conducting internships or writing their thesis  
 
-### Academic Service and Professional Memberships  
-
-- member of the [European Association for Digital Humanities (EADH)](https://eadh.org/) (2025)      
+### Academic Service
+   
 - co-organizer of the conference [Fanfiction and the Ancient World](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) (October 2024)      
-- editor of  [Culture Weekly](https://culture-weekly.com/), the blog of the department of Arts and Culture Studies at Radboud University. (September 2023 - present)  
-- member of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (summer 2023-present)  
-- member of OSL, the Dutch Research School for Literary Studies (November 2022-present)  
-- associated member of OIKOS, the National Research School in Classical Studies in the Netherlands (November 2022-present)  
-- member of the management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (2022-2024)  
-- Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*  
-- Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)   
+- editor of  [Culture Weekly](https://culture-weekly.com/), the blog of the department of Arts and Culture Studies at Radboud University. (September 2023 - present)   
+- Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*   
 - Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program (2023-2024) 
-- 2022: student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University. The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)
+
+### Professional Memberships  
+- Editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (2023-present)  
+- [European Association for Digital Humanities (EADH)](https://eadh.org/) (2025-present)    
+- Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present)  
+- OSL: Dutch Research School for Literary Studies (2022-present)  
+- OIKOS: National Research School in Classical Studies in the Netherlands (2022-present)  
+- Management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (2022-2024)  
+- Student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University (2022). The report of our assessment is [available here.](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)  
 
 ---
