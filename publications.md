@@ -115,27 +115,36 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 
 ### Non Peer-reviewed Publications 
 
-- *Fanfictie in de Klas* (forthcoming 2026)  
-Solo-authored article in *Levende Talen Magazine*  
-- *Interview with the Fan: A dialogue between myself as a fan and myself as a researcher* (2026)  
-Solo-authored article in [Radical Creativities, 2](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)
-- *Fanfictie: Van Wie Is Jouw Verhaal?* (2025)  
-Solo-authored article in [Vooys: Tijdschrift voor Letteren, 43.3](https://tijdschriftvooys.nl/vooys-43-3-op-het-internet-is-uit/)
-- *"Impressed by Reading" Workshop Report* (2025)  
-Workshop report co-authored with 24 workshop participants, available [on Zenodo](https://zenodo.org/records/15527654)  
-- *Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm* (2024)  
-Solo-authored article in [De Moon: Tijdschrift over
-Oudheidsreceptie in Nederland, 1.1](https://www.de-moon.nl/)
-- *Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction* (2021)  
-Solo-authored article in the graduate journal [Frame Journal of Literary Studies, 34.2](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)   
-- *The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls* (2021)  
-Solo-authored article in the graduate journal [Digital Literature Review, 8.1](https://doi.org/10.33043/DLR.8.1.71-81)
+- **Fanfictie in de Klas** (Fanfiction in the Classroom)   
+Solo-authored article (2026). 
+*Levende Talen Magazine*.  
+- **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
+Solo-authored article (2026).  
+*Radical Creativities*, vol. 2   
+[URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)
+- **Fanfictie: Van Wie Is Jouw Verhaal?** (Fanfiction: Who Owns Your Story?)   
+Solo-authored article (2025).  
+*Vooys: Tijdschrift voor Letteren* 43.3
+- **"Impressed by Reading" Workshop Report**   
+Co-authored with 24 workshop participants (I am the 8th author) (2025).   
+[Zenodo](https://zenodo.org/records/15527654    
+- **Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm** (Fanfiction & Greek Myth: A Plurimedial Storytelling Mode)   
+Solo-authored article (2024).  
+*De Moon: Tijdschrift over Oudheidsreceptie in Nederland*, 1.1  
+- **Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction**  
+Solo-authored article in a graduate journal (2021)  
+*Frame Journal of Literary Studies*, 34.2   
+[URL](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)   
+- **The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls**   
+Solo-authored article in a graduate journal (2021)  
+*Digital Literature Review*, 8.1  
+[DOI](https://doi.org/10.33043/DLR.8.1.71-81) · [PDF](https://openjournals.bsu.edu/dlr/article/view/3472/1989)  
 
 ### Non Peer-reviewed Presentations  
 
-- *Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth* (2026)  
+- **Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth**  
 Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, Germany   
-- *Feveruary: Understanding SickFic* (2025)  
+- **Feveruary: Understanding SickFic** (2025)  
 [Poster at the OSL Research Day](https://zenodo.org/records/17464187)Utrecht University, the Netherlands  
 - *Fanfiction about Greek Myth: A Computational Exploration* (2025)
 Presentation at the CORE Collective, Aarhus University, Denmark  
