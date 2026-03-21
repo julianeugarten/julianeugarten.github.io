@@ -8,9 +8,12 @@ permalink: /publications/
 
 
 ### Peer-reviewed Journal Articles
+#### 2026  
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026).  
 *Digital Scholarship in the Humanities*.  
+
+#### 2025  
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ num´erique*, 15.1.    
@@ -23,14 +26,20 @@ Solo-authored article (2025).
 Solo-authored article (2025).  
 *Journal of Computational Literary Studies*, 4.1.  
 [URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)  
+
+#### 2024  
 - **MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth**  
 Solo-authored article (2024).  
 *Digital Humanities Benelux Journal*, vol. 6.  
-[PDF](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf)      
+[PDF](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf)  
+
+#### 2023  
 - **Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments**  
 Solo-authored article (2023).  
 *Journal of Fandom Studies*, 11.2-3  
 [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) · [DOI](https://doi.org/10.1386/jfs_00082_1)  
+
+#### 2022
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
 Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).    
 *Journal of Computational Literary Studies*, 1.1  
@@ -39,10 +48,10 @@ Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).
 
 ### Peer-reviewed Conference Papers and Presentations 
 
-- forthcoming: **Problems and Prospects of Computational Fanfiction Research**  
+- **Problems and Prospects of Computational Fanfiction Research**  
 Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026). 
 Full-day workshop at *DH Benelux 2026*.  
-- forthcoming: **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**
+- **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**
 Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
 Short paper at *DH Benelux 2026*.  
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
