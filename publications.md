@@ -99,14 +99,14 @@ Marijn Koolen, Olivia Fialho, Julia Neugarten, Joris J. van Zundert, Willem van 
 Presentation at *Computational Linguistics in the Netherlands (CLIN)*.
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
 Marijn Koolen, Julia Neugarten, Peter Boot (2022)    
-Presentation at the Conference of *Computational Literary Studies CCLS2022*.
+Presentation at the *Conference of Computational Literary Studies (CCLS2022)*.
 - **Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel**  
 Julia Neugarten, Lisanne M. van Rossum, Joris J. van Zundert (2022)  
-Long paper at *Digital Humanities Benelux 2022*
+Long paper at *Digital Humanities Benelux 2022*.  
 [Abstract & Slides](https://zenodo.org/record/6594637#.Yqr1kKJBxPY) · [DOI](https://doi.org/10.5281/zenodo.6594637)  
 - **Fifty Shades of Twilight: Computationally Comparing Collocations in Twilight and 50 Shades of Grey**   
 Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert (2022)  
-Short presentation at *Digital Humanities 2022*.
+Short presentation at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
 - **Reading Impact in Online Book Reviews: Challenges and Prospects**   
 Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage(2022)  
@@ -116,7 +116,7 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 ### Non Peer-reviewed Publications 
 
 - **Fanfictie in de Klas** (Fanfiction in the Classroom)   
-Solo-authored article (2026). 
+Solo-authored article (forthcoming 2026). 
 *Levende Talen Magazine*.  
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored article (2026).  
