@@ -45,9 +45,9 @@ Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).
 ### Peer-reviewed Conference Papers and Presentations 
 
 - **Problems and Prospects of Computational Fanfiction Research**  
-Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026). 
+Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026).  
 Full-day workshop at *DH Benelux 2026*.  
-- **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**
+- **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**  
 Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
 Short paper at *DH Benelux 2026*.  
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
@@ -55,29 +55,29 @@ Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).
 Long paper at *Computational Humanities Research 2025*.  
 [URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf)  
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
-Solo-authored (2025). 
+Solo-authored (2025).  
 Conference Paper, *Conference of Computational Literary Studies 2025*.  
 [URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/) · [Code](https://zenodo.org/records/17407771)
 - **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**
 Julia Neugarten and Thijs Meijerink (2025).  
 Long paper, *Digital Humanities 2025*.  
 [URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public)
-- **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**
+- **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**  
 Julia Neugarten and Marieke van Erp (2025).  
 Oral presentation at *Digital Humanities Benelux 2025*.  
-[URL]((https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public). 
-- **The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities**
-Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025). 
-Panel discussion at *Digital Humanities Benelux 2025*.
+[URL](https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public). 
+- **The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities**  
+Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025).  
+Panel discussion at *Digital Humanities Benelux 2025*.  
 [URL]((https://zenodo.org/records/15373875))  
 - **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition** (2024)  
 Solo-authored.  
 Presentation at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/).    
 [Slides](https://zenodo.org/records/14264802)
-- **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**
+- **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
 Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024). 
-Poster at *Computational Humanities Research 2024*.
-[PDF]https://ceur-ws.org/Vol-3834/paper23.pdf) · [Poster](https://zenodo.org/records/14266572) · [Code](https://github.com/julianeugarten/catching_feelings)  
+Poster at *Computational Humanities Research 2024*.  
+[PDF](https://ceur-ws.org/Vol-3834/paper23.pdf) · [Poster](https://zenodo.org/records/14266572) · [Code](https://github.com/julianeugarten/catching_feelings)  
 - **FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation**  
 Julia Neugarten, Christoph Minixhofer, David Slot (2023).  
 Poster at *Computational Humanities Research 2023*.  
