@@ -8,38 +8,34 @@ permalink: /publications/
 
 
 ### Peer-reviewed Journal Articles
-#### 2026  
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
 Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026).  
 *Digital Scholarship in the Humanities*.  
 
-#### 2025  
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ num´erique*, 15.1.    
-[URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703)  
+[URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703) · [PDF](https://www.digitalstudies.org/article/18703/galley/42662/download/)  
 - **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
 Solo-authored article (2025).  
 *Transformative Works and Cultures*, vol. 46.  
 [URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643)  
+
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**  
 Solo-authored article (2025).  
 *Journal of Computational Literary Studies*, 4.1.  
-[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/)  
-
-#### 2024  
+[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/) · [Code](https://zenodo.org/records/17407771)  
+ 
 - **MythFic Metadata: Gendered Power Dynamics in Fanfiction about Greek Myth**  
 Solo-authored article (2024).  
 *Digital Humanities Benelux Journal*, vol. 6.  
 [PDF](https://journal.dhbenelux.org/wp-content/uploads/2024/11/8_Neugarten_individual.pdf)  
 
-#### 2023  
 - **Delicious Angst and Tooth-Rotting Fluff: Distant Reading Community Discourses of Emotion in Harry Potter Fanfiction Comments**  
 Solo-authored article (2023).  
 *Journal of Fandom Studies*, 11.2-3  
 [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) · [DOI](https://doi.org/10.1386/jfs_00082_1)  
 
-#### 2022
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
 Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).    
 *Journal of Computational Literary Studies*, 1.1  
@@ -55,35 +51,45 @@ Full-day workshop at *DH Benelux 2026*.
 Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
 Short paper at *DH Benelux 2026*.  
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
-Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025)  
-Long paper at *CHR2025*.  
+Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).  
+Long paper at *Computational Humanities Research 2025*.  
+[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf)  
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
-Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
-[Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
-- *[Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models](https://zenodo.org/records/16037061)* (2025)  
-Julia Neugarten and Thijs Meijerink  
-Long paper, DH2025, Lisbon
-- *[What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo](https://zenodo.org/records/15424192)* (2025)  
-Julia Neugarten and Marieke van Erp  
-Oral presentation at the conference DH Benelux 2025, Amsterdam  
-- *[The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities](https://zenodo.org/records/15373875)*  
-Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur  
-Panel discussion at the conference DH Benelux 2025, Amsterdam  
-- *How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition* (2024)  
-[Presentation](https://zenodo.org/records/14264802) at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)    
-- [*Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth*](https://ceur-ws.org/Vol-3834/paper23.pdf) (2024)  
-Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz  
-Poster at [Computational Humanities Research (CHR2024)](https://2024.computational-humanities-research.org/)  
-- *FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation* (2023)  
-Julia Neugarten, Christoph Minixhofer, David Slot  
-Poster at [Computational Humanities Research (CHR2023)](https://2023.computational-humanities-research.org/)  
-Abstract and poster available [on Zenodo](https://zenodo.org/records/10279754)  
-- *How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?* (2023)  
-Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot  
-Presentation at IGEL 2023, Monopoly, Italy. [Book of abstracts available](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view)    
-- *MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
-Julia Neugarten & Roel Smeets  
-[Short paper at the conference DH Benelux 2023](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) with data available on [Github](https://github.com/julianeugarten/DH_Benelux_2023) and in the [Radboud Data Repository](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0). The paper is also available on [Zenodo](https://zenodo.org/record/7941533)  
+Solo-authored (2025). 
+Conference Paper, *Conference of Computational Literary Studies 2025*.  
+[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/) · [Code](https://zenodo.org/records/17407771)
+- **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**
+Julia Neugarten and Thijs Meijerink (2025).  
+Long paper, *Digital Humanities 2025*.  
+[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public)
+- **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**
+Julia Neugarten and Marieke van Erp (2025)  
+Oral presentation at *Digital Humanities Benelux 2025*.  
+[URL]((https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public). 
+- **The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities**
+Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025) 
+Panel discussion at *Digital Humanities Benelux 2025*.
+[URL]((https://zenodo.org/records/15373875))  
+- **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition** (2024)  
+Solo-authored.  
+Presentation at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)    
+[Slides](https://zenodo.org/records/14264802)
+- **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**
+Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024). 
+Poster at *Computational Humanities Research 2024*.
+[PDF]https://ceur-ws.org/Vol-3834/paper23.pdf) · [Poster](https://zenodo.org/records/14266572) · [Code](https://github.com/julianeugarten/catching_feelings)  
+- **FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation**  
+Julia Neugarten, Christoph Minixhofer, David Slot (2023)  
+Poster at *Computational Humanities Research 2023*  
+[Poster](https://zenodo.org/records/10279754) · [DOI](https://doi.org/10.5281/zenodo.10279754)    
+- **How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?**   
+Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot (2023)  
+Presentation, *International Society for the Empirical Study of Literature (IGEL)*  
+[Book of abstracts](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view)    
+- **MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology* (2023)    
+Julia Neugarten & Roel Smeets (2023)  
+Short paper, *Digital Humanities Benelux 2023*.  
+[PDF](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) · [Code](https://github.com/julianeugarten/DH_Benelux_2023) · [Data](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0) · [Zenodo](https://zenodo.org/record/7941533) · [DOI](https://doi.org/10.5281/zenodo.7941533)   
 - *What Do We Talk About When We Talk About Topic?* (2022)  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage and Ole Mussmann  
 [Short paper](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) at the conference [Computational Humanities Research](https://2022.computational-humanities-research.org/programme/), published in the [Proceedings of the Computational Humanities Research Conference 2022](https://ceur-ws.org/Vol-3290/).
