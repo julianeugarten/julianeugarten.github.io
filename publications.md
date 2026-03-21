@@ -190,8 +190,8 @@ with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert.
 ### Teaching in the BA Arts & Culture Studies at Radboud University  
 
 - Three lectures in [Introduction to Literary Theory](https://www.ru.nl/studiegids/letteren/cursussen/ba/ba-acw/b1/let-acwb100/) (B1, spring 2024). 
-- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024 2025 and 2026)  
-- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and again in fall 2024, this time including two lectures on *Truth & Falsehood* and *Data Bias*)   
+- One lecture on Distant Reading in [Research Methods for Cultural Studies](https://ru.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=en&cursuscode=LET-ACWB211&collegejaar=2023) (B2, spring 2024, 2025 and 2026)  
+- Two seminar groups in [Data Culture](https://www.ru.nl/courseguides/arts/exchange/courses-exchange-students/arts-culture-studies/autumn-semester-bachelor/data-culture/) (B2, fall 2023 and 2024, second time including two lectures on *Truth & Falsehood* and *Data Bias*)   
 
 ### Teaching in Other Programs and Organizations 
 
