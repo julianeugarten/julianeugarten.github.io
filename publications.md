@@ -8,11 +8,9 @@ permalink: /publications/
 
 
 ### Peer-reviewed Journal Articles
-<b>TEST BOLD</b>
-<li style="margin-bottom: 1.2em;">
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
-Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026). *Digital Scholarship in the Humanities*.  
-</li>
+Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026).  
+*Digital Scholarship in the Humanities*.  
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ num´erique*, 15.1.    
@@ -41,13 +39,16 @@ Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).
 
 ### Peer-reviewed Conference Papers and Presentations 
 
-- forthcoming: *Problems and Prospects of Computational Fanfiction Research*  
-Mia Jacobsen, Julia Neugarten et al., Full-day workshop at DH Benelux 2026.  
-- forthcoming: *Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement*
-Mia Jacobsen, Julia Neugarten et al., Short paper at DH Benelux 2026.  
-- *Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms*  
-Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni, Long paper at CHR2025.  
-- *A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction*   
+- forthcoming: **Problems and Prospects of Computational Fanfiction Research**  
+Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026). 
+Full-day workshop at *DH Benelux 2026*.  
+- forthcoming: **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**
+Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
+Short paper at *DH Benelux 2026*.  
+- **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
+Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025)  
+Long paper at *CHR2025*.  
+- **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
 Presentation at the 4th annual [Conference of Computational Literary Studies](https://jcls.io/site/ccls2025/) in Krakow   
 [Preprint available](https://tuprints.ulb.tu-darmstadt.de/30143/).  
 - *[Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models](https://zenodo.org/records/16037061)* (2025)  
