@@ -109,7 +109,7 @@ Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert (2022)
 Short presentation at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
 - **Reading Impact in Online Book Reviews: Challenges and Prospects**   
-Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage(2022)  
+Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage (2022)  
 Short presentation, part of a panel at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)    
 
@@ -119,7 +119,7 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 Solo-authored article (forthcoming 2026). 
 *Levende Talen Magazine*.  
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
-Solo-authored article (2026).  
+Solo-authored critical-creative article (2026).  
 *Radical Creativities*, vol. 2   
 [URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)
 - **Fanfictie: Van Wie Is Jouw Verhaal?** (Fanfiction: Who Owns Your Story?)   
@@ -143,24 +143,27 @@ Solo-authored article in a graduate journal (2021)
 ### Non Peer-reviewed Presentations  
 
 - **Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth**  
-Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, Germany   
-- **Feveruary: Understanding SickFic** (2025)  
-[Poster at the OSL Research Day](https://zenodo.org/records/17464187)Utrecht University, the Netherlands  
-- *Fanfiction about Greek Myth: A Computational Exploration* (2025)
-Presentation at the CORE Collective, Aarhus University, Denmark  
-- *The Impact of Fanfiction* (2025)  
-Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact](https://www.lorentzcenter.nl/site/index.php?pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=2070).  
-- *Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth*  
-Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at [GhentCdH](https://www.ghentcdh.ugent.be/). [Full presentation viewable on Youtube](https://www.youtube.com/watch?v=_jRxbVUAT_Y) and [powerpoint available on Zenodo](https://zenodo.org/records/12163945)    
-- *“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives*  
-[Presentation at the 2023 OSL Day Health Humanities in Practice](https://zenodo.org/records/14959574)  
-- *Topic Modeling for Exploratory Fanfiction Analysis*  
-[Workshop at the 2023 conference of the Fan Studies Network North America](https://fsn-northamerica.org/fsnna-23/)   
-[Powerpoint available on Zenodo](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA)   
-- *Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities* (2022)
-Talk at the [Venice Center for Digital and Public Humanities](https://www.unive.it/pag/39287) at Ca'Foscari University. Available to view [on the CLARIAH website](https://www.clariah.nl/news/online-fanfiction-communities)  
-- *Harry Potter Fanfiction, Emotionality & Toxic Masculinity* (2021)  
-Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam  
+Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, DE   
+- **Feveruary: Understanding SickFic**  
+Poster at the OSL Research Day, Utrecht University, NL (2025).  
+[Poster](https://zenodo.org/records/17464187)
+- **Fanfiction about Greek Myth: A Computational Exploration**  
+Presentation at the CORE Collective, Aarhus University, DK (2025).    
+- **The Impact of Fanfiction**   
+Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact](https://www.lorentzcenter.nl/site/index.php? pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=2070), Lorentz Center, NL (2025).  
+- **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth**  
+Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at the Ghent Center for Digital Humanties, BE (2024).  
+[Youtube Recording](https://www.youtube.com/watch?v=_jRxbVUAT_Y) · [Slides](https://zenodo.org/records/12163945) · [Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf)   
+- **“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives**  
+Presentation at the OSL Day *Health Humanities in Practice*, Utrecht University, NL (2023).  
+[Abstract & Slides](https://zenodo.org/records/14959574) · [DOI](https://doi.org/10.5281/zenodo.14959574). 
+- **Topic Modeling for Exploratory Fanfiction Analysis**  
+Workshop at the online Fan Studies Network North America conference(2023).     
+[Slides](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA) · [Data](https://data.ru.nl/collections/ru/rich/topic_modeling_for_exploratory_fanfiction_analysis_dsc_463)  
+- **Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities**  
+Talk at the Venice Center for Digital and Public Humanities at Ca'Foscari University (2022).   
+- **Harry Potter Fanfiction, Emotionality & Toxic Masculinity**  
+Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam, NL (2021).   
 
 ### Awards and Fellowships  
 
@@ -168,20 +171,25 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 - OIKOS Travel Award (2025)
 - [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
 - [Christine Mohrmann Stipend](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg) (2025)  
-- Stipend for a Short-Term Scientific Mission (2025) awarded by the Special Interest Group Digital Literary Studies   
+- Stipend for a Short-Term Scientific Mission (2025) awarded by the Special Interest Group Digital Literary Studies  
+[Report](https://dls.hypotheses.org/2046)      
 - OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
-- [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in [CLS Infra: Computational Literary Studies Infrastructure](https://clsinfra.io/opportunities/tnafellowships/)  
+- [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in CLS Infra: Computational Literary Studies Infrastructure  
+[Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf)   
 - [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
 
 
 #### Reviews 
 
-- Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz (2025)  
-[Journal of Fandom Studies 13.1](https://doi.org/10.1386/jfs_00112_5)  
-- Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* (2022) Edited by Kim Beerden and Timo Epping  
-[Tijdschrift voor Geschiedenis 136.2](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG)  
-- Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games* (2021)  
-[Participations Journal of Audience & Reception Studies, 18.1](https://www.participations.org/18-01-29-neugarten.pdf)    
+- **Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz** (2025)  
+*Journal of Fandom Studies* 13.1 (2025).  
+[DOI](https://doi.org/10.1386/jfs_00112_5) · [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00112_5)    
+- **Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* Edited by Kim Beerden and Timo Epping**   
+*Tijdschrift voor Geschiedenis* 136.2 (2023)
+[URL](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG) · [DOI](https://doi.org/10.5117/TvG2023.2.006.NEUG) · [PDF](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG#)   
+- **Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games***  
+*Participations Journal of Audience & Reception Studies* 18.1 (2021)
+[PDF](https://www.participations.org/18-01-29-neugarten.pdf)    
 
 ### Research Projects 
 
