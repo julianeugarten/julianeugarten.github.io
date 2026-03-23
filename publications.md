@@ -53,7 +53,7 @@ Short paper at *DH Benelux 2026*.
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
 Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).  
 Long paper at *Computational Humanities Research 2025*.  
-[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf)  
+[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf) · [Code](https://github.com/centre-for-humanities-computing/fanfic_sentiment)   
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
 Solo-authored (2025).  
 Conference Paper, *Conference of Computational Literary Studies 2025*.  
@@ -75,7 +75,7 @@ Solo-authored (2024).
 Presentation at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/).    
 [Slides](https://zenodo.org/records/14264802)
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
-Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024). 
+Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024).  
 Poster at *Computational Humanities Research 2024*.  
 [PDF](https://ceur-ws.org/Vol-3834/paper23.pdf) · [Poster](https://zenodo.org/records/14266572) · [Code](https://github.com/julianeugarten/catching_feelings)  
 - **FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation**  
@@ -308,7 +308,7 @@ Editor of the blog of the department of Arts and Culture Studies at Radboud Univ
 - **Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program**  
 (2023-2024).  
 
-Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*.     
+**Peer review** conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*.     
 
 
 ### Professional Memberships  
