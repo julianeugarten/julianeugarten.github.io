@@ -161,22 +161,31 @@ Presentation at the OSL Day *Health Humanities in Practice*, Utrecht University,
 Workshop at the online Fan Studies Network North America conference (2023).     
 [Slides](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA) · [Data](https://data.ru.nl/collections/ru/rich/topic_modeling_for_exploratory_fanfiction_analysis_dsc_463)  
 - **Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities**  
-Talk at the Venice Center for Digital and Public Humanities at Ca'Foscari University (2022).   
+Talk at the Venice Center for Digital and Public Humanities at Ca'Foscari University, IT (2022).   
 - **Harry Potter Fanfiction, Emotionality & Toxic Masculinity**  
 Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam, NL (2021).   
 
 ### Awards and Fellowships  
 
-- [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/) (2026)
-- OIKOS Travel Award (2025)
-- [OSL Valorization Award 2025 (runner-up)](https://www.oslit.nl/osl-awards-the-results-are-in/)  
-- [Christine Mohrmann Stipend](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg) (2025)  
-- Stipend for a Short-Term Scientific Mission (2025) awarded by the Special Interest Group Digital Literary Studies  
+- **Tiele Fellowship** (2026)  
+[Announcement](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)   
+- **OIKOS Travel Award** (2025)
+- **OSL Valorization Award, runner-up** (2025)  
+[Announcement](https://www.oslit.nl/osl-awards-the-results-are-in/)  
+- **Christine Mohrmann Stipend** (2025)  
+Awarded by Radboud University  
+[Announcement](https://www.linkedin.com/posts/facultyofarts_christinemohrmannstipend-phd-fanfiction-activity-7313893923427352578-AoNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6OhdwBq1JaftSjT30vRQEmvEfq5oNitSg)  
+- **Stipend for a Short-Term Scientific Mission** (2025)  
+Awarded by the *Special Interest Group Digital Literary Studies*  
 [Report](https://dls.hypotheses.org/2046)      
-- OSL Seed Money Grant (2024) for the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
-- [Transnational Access Fellowship](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) (2023) in CLS Infra: Computational Literary Studies Infrastructure  
+- **OSL Seed Money Grant** (2024)  
+Awarded for organizing the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
+- **Transnational Access Fellowship** (2023)   
+In the project *CLS Infra: Computational Literary Studies Infrastructure*    
 [Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf)   
-- [Royal Dutch Academy of Sciences Education Award (2014) for *The Jane Austen Novel*](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
+- **Royal Dutch Academy of Sciences Education Award** (2014)  
+Awarded for the project *The Jane Austen Novel*  
+[Announcement](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
 
 
 #### Reviews 
@@ -215,7 +224,7 @@ Rijksmuseum van Oudheden (2026).
 - **Oudheid op het Internet** (Antiquity Online).  
 Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/ nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) (2026).  
 - **Reading with Computers**  
-Blogpost on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies (2025).   
+Blogpost on the blog for the Special Interest Group Digital Literary Studies (2025).   
 [URL](https://dls.hypotheses.org/2046)  
 - **Faces of Science**   
 Science communication for the Royal Dutch Academy of Sciences (2025-present).   
@@ -247,7 +256,7 @@ Blogpost on *Culture Weekly* (2024).
 [URL](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/)  
 - **Fanfictie: wie, wat, waar, waarom?** (Fanfiction: Who, What, Where, Why?)  
 Masterclass about fanfiction for secondary school students in the *Track in Leren* program (2024).  
-**Fantastic Fanfictions and How to Study Them: Podcast Interview**  
+- **Fantastic Fanfictions and How to Study Them: Podcast Interview**  
 *In A Nutshell* podcast by Vox (2024).  
  [URL](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them) · [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ)  
 - **Fanfictie: als fans de regie nemen** (Fanfiction: when fans take charge)  
@@ -271,7 +280,7 @@ Blogpost co-authored with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van
 - **Introduction to Literary Theory**  
 Three lectures, B1, (spring 2024). 
 - **Research Methods for Cultural Studies**   
-One lecture on *Distant Reading* B2, (spring 2024, 2025 and 2026).  
+One lecture on *Distant Reading*, B2, (spring 2024, 2025 and 2026).  
 - **Data Culture**   
 Two seminar groups, B2, (fall 2023, 2024), second time including two lectures on *Truth & Falsehood* and *Data Bias*.   
 
@@ -282,7 +291,7 @@ Invited online lecture in the BA courses *Animation* and *3D Animation* at the D
 - **Fanfiction, Health & Illness**  
 Invited mini-lecture in the MA course *Health and Illness* at Radboud University (2024).     
 - **Career Seminar**   
-Guest lecturer in the course *Literary Studies Lab* (in the rMA Literary Studies) at the University of Amsterdam (2023, 2025).      
+Guest lecture in the course *Literary Studies Lab* (in the rMA Literary Studies) at the University of Amsterdam (2023, 2025).      
 - **Impact & Fiction: Computationally operationalizing the impact of books through online reviews**  
 Invited guest lecture in the MA course *Computational Literary Studies* at the University of Antwerp, together with Marijn Koolen (2023).  
 - **Co-supervision of interships and theses**    
@@ -304,12 +313,12 @@ Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M
 
 ### Professional Memberships  
 - Editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (2023-present).  
-[vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creation-and-alteration-in-digital-humanities/) · [vol. 6](https://journal.dhbenelux.org/volume-6-crossing-borders/) · [vol. 7](https://journal.dhbenelux.org/volume-7-breaking-silos/)  
+Co-edited volumes: [vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creation-and-alteration-in-digital-humanities/) · [vol. 6](https://journal.dhbenelux.org/volume-6-crossing-borders/) · [vol. 7](https://journal.dhbenelux.org/volume-7-breaking-silos/)  
 - European Association for Digital Humanities (EADH) (2025-present).    
-- Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present).  
+- Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present).  
 - OSL: Dutch Research School for Literary Studies (2022-present).  
 - OIKOS: National Research School in Classical Studies in the Netherlands (2022-present).  
-- Management team for research group [SCARAB: Studying Cultural Infrastructure and Reception Across Borders](https://www.ru.nl/afdelingen/radboud-institute-for-culture-and-history/scarab-studying-cultural-infrastructure-and-reception-across-borders) (2022-2024).  
+- Management team for research group SCARAB: Studying Cultural Infrastructure and Reception Across Borders (2022-2024).  
 - Student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University (2022).  
 [Assessment Report](https://publicaties.nvao.net/prd/AV-1056_20220929_Rapport_RMA%20Neerlandistiek%20-%20definitief%20rapport%20Academion.pdf)  
 
