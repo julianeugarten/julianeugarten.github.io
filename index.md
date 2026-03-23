@@ -21,7 +21,7 @@ My research centers around the analysis of fanfiction and a variety of other fan
 
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
-*Digital Studies / Le champ num´erique*, 15.1.    
+*Digital Studies / Le champ numérique*, 15.1.    
 [URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703) · [PDF](https://www.digitalstudies.org/article/18703/galley/42662/download/)    
 - **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
 Solo-authored article (2025).  
