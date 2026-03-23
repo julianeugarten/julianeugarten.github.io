@@ -19,7 +19,7 @@ Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).
 - **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
 Solo-authored article (2025).  
 *Transformative Works and Cultures*, vol. 46.  
-[URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643)  
+[URL](https://journal.transformativeworks.org/index.php/twc/article/view/2643) · [DOI](https://doi.org/10.3983/twc.2025.2643) · [Code](https://github.com/julianeugarten/TWC_Riveter)
 
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**  
 Solo-authored article (2025).  
@@ -92,8 +92,8 @@ Short paper, *Digital Humanities Benelux 2023*.
 [PDF](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) · [Code](https://github.com/julianeugarten/DH_Benelux_2023) · [Data](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0) · [Zenodo](https://zenodo.org/record/7941533) · [DOI](https://doi.org/10.5281/zenodo.7941533)   
 - **What Do We Talk About When We Talk About Topic?**  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage, Ole Mussmann (2022).    
-Short paper at *Computational Humanities Research 2022*
-[PDF](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) · 
+Short paper at *Computational Humanities Research 2022*  
+[PDF](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) 
 - **What Can Online Book Reviews Reveal about Readers and Platforms?**  
 Marijn Koolen, Olivia Fialho, Julia Neugarten, Joris J. van Zundert, Willem van Hage, Ole Mussmann, Peter Boot (2022).   
 Presentation at *Computational Linguistics in the Netherlands (CLIN)*.
@@ -267,14 +267,14 @@ Blogpost co-authored with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van
 
 - **Introduction to Literary Theory**  
 Three lectures, B1, (spring 2024). 
-- **Research Methods for Cultural Studies**
+- **Research Methods for Cultural Studies**   
 One lecture on *Distant Reading* B2, (spring 2024, 2025 and 2026).  
-- **Data Culture**
+- **Data Culture**   
 Two seminar groups, B2, (fall 2023, 2024), second time including two lectures on *Truth & Falsehood* and *Data Bias*.   
 
 ### Teaching in Other Programs and Organizations 
 
-- **Fan Studies Methodologies**
+- **Fan Studies Methodologies**    
 Invited online lecture in the BA courses *Animation* and *3D Animation* at the Dun Laoghaire Institute of Art Design + Technology (2026).  
 - **Fanfiction, Health & Illness**  
 Invited mini-lecture in the MA course *Health and Illness* at Radboud University (2024).     
@@ -287,12 +287,12 @@ Carried out at the Huygens Institute (2021-2022).
 
 ### Academic Service
    
-- **Fanfiction and the Ancient World Conference**
+- **Fanfiction and the Ancient World Conference**  
 Organized together with Amanda Potter (2024).  
-[CfP](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) · [URL](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)
-- **Culture Weekly** 
+[CfP](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) · [URL](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
+- **Culture Weekly**  
 Editor of the blog of the department of Arts and Culture Studies at Radboud University (2023 - present).     
-[URL](https://culture-weekly.com/)
+[URL](https://culture-weekly.com/)  
 - **Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program**  
 (2023-2024).  
 
@@ -300,7 +300,7 @@ Peer review conducted for the *Journal of Fandom Studies, New Media & Society, M
 
 
 ### Professional Memberships  
-- Editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (2023-present).
+- Editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (2023-present).  
 [vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creation-and-alteration-in-digital-humanities/) · [vol. 6](https://journal.dhbenelux.org/volume-6-crossing-borders/) · [vol. 7](https://journal.dhbenelux.org/volume-7-breaking-silos/)  
 - European Association for Digital Humanities (EADH) (2025-present).    
 - Member of the Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present).  
