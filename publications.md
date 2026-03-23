@@ -194,10 +194,10 @@ Awarded for the project *The Jane Austen Novel*
 *Journal of Fandom Studies*, 13.1 (2025).  
 [DOI](https://doi.org/10.1386/jfs_00112_5) · [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00112_5)    
 - **Review of *Classical Controversies. Reception of Graeco-Roman Antiquity in the Twenty-First Century* Edited by Kim Beerden and Timo Epping**   
-*Tijdschrift voor Geschiedenis*, 136.2 (2023)  
+*Tijdschrift voor Geschiedenis*, 136.2 (2023).  
 [URL](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG) · [DOI](https://doi.org/10.5117/TvG2023.2.006.NEUG) · [PDF](https://www.aup-online.com/content/journals/10.5117/TvG2023.2.006.NEUG#)   
 - **Review of Ebony Elizabeth Thomas’ *The Dark Fantastic: Race and the Imagination from Harry Potter to The Hunger Games***  
-*Participations Journal of Audience & Reception Studies*, 18.1 (2021)  
+*Participations Journal of Audience & Reception Studies*, 18.1 (2021).  
 [PDF](https://www.participations.org/18-01-29-neugarten.pdf)    
 
 ### Research Projects 
