@@ -209,6 +209,9 @@ Research Assistant (2021).
 
 ### Valorization
 
+- **Workshop: Fanfictie Schrijven over de Oudheid** (Writing Fanfiction about Antiquity)  
+Rijksmuseum van Oudheden (2026).  
+[URL](https://www.rmo.nl/uw-bezoek/activiteiten/fanfictie-schrijven-over-de-oudheid/)    
 - **Oudheid op het Internet** (Antiquity Online).  
 Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/ nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) (2026).  
 - **Reading with Computers**  
