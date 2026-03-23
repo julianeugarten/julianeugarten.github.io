@@ -16,6 +16,7 @@ Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026).
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ numérique*, 15.1.    
 [URL](https://www.digitalstudies.org/article/id/18703/) · [DOI](https://doi.org/10.16995/dscn.18703) · [PDF](https://www.digitalstudies.org/article/18703/galley/42662/download/)  
+
 - **Using Riveter to Map Gendered Power Dynamics in Hades/Persephone Fanfiction**    
 Solo-authored article (2025).  
 *Transformative Works and Cultures*, vol. 46.  
@@ -37,7 +38,7 @@ Solo-authored article (2023).
 [URL](https://intellectdiscover.com/content/journals/10.1386/jfs_00082_1) · [DOI](https://doi.org/10.1386/jfs_00082_1)  
 
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
-Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).    
+Marijn Koolen, Julia Neugarten, Peter Boot (2022).    
 *Journal of Computational Literary Studies*, 1.1  
 [URL](https://jcls.io/article/id/104/) · [DOI](https://doi.org/10.48694/jcls.104) · [PDF](https://jcls.io/article/104/galley/3481/download/)  
 
@@ -86,7 +87,8 @@ Panel discussion at *Digital Humanities Benelux 2025*.
 - **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition**    
 Solo-authored (2024).    
 Conference paper at the *[Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)*.    
-[Slides](https://zenodo.org/records/14264802)
+[Slides](https://zenodo.org/records/14264802)  
+
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
 Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024).  
 Poster at *Computational Humanities Research 2024*.  
@@ -189,11 +191,14 @@ Hybrid presentation on my TNA fellowship with the [CLS Infra Project](https://cl
 - **“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives**  
 Presentation at the OSL Day *Health Humanities in Practice*, Utrecht University, NL (2023).  
 [Abstract & Slides](https://zenodo.org/records/14959574) · [DOI](https://doi.org/10.5281/zenodo.14959574). 
+
 - **Topic Modeling for Exploratory Fanfiction Analysis**  
 Workshop at the online Fan Studies Network North America conference (2023).     
 [Slides](https://zenodo.org/records/10000603?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM2OTNmY2U2LTQ5NGYtNDc4ZS1hZmExLTg1MGE3NjMzZjZjMiIsImRhdGEiOnt9LCJyYW5kb20iOiI5MWViYjg1NDhkMTdmYWYxNmY3Mzc4ZjFiNTdiZjYyYiJ9.IRAU62_csFfjeQhkE1YBkwjEtfLw2xpr-6rrJv8od4fjSGzUFbQY7AQs855_Iry5DFpcdjqhoj1wo8RPu3G4FA) · [Data](https://data.ru.nl/collections/ru/rich/topic_modeling_for_exploratory_fanfiction_analysis_dsc_463)  
+
 - **Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities**  
 Talk at the Venice Center for Digital and Public Humanities at Ca'Foscari University, IT (2022).   
+
 - **Harry Potter Fanfiction, Emotionality & Toxic Masculinity**  
 Conference presentation at the *Student Conference on Dissidence, Gender and Sexuality*, University of Amsterdam, NL (2021).   
 
