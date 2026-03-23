@@ -47,69 +47,84 @@ Marijn Koolen, *Julia Neugarten*, Peter Boot (2022).
 - **Problems and Prospects of Computational Fanfiction Research**  
 Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026).  
 Full-day workshop at *DH Benelux 2026*.  
+
 - **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**  
 Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
 Short paper at *DH Benelux 2026*.  
+
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
 Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).  
 Long paper at *Computational Humanities Research 2025*.  
-[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf) · [Code](https://github.com/centre-for-humanities-computing/fanfic_sentiment)   
+[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf) · [Code](https://github.com/centre-for-humanities-computing/fanfic_sentiment)  
+
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
 Solo-authored (2025).  
 Conference Paper, *Conference of Computational Literary Studies 2025*.  
-[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/) · [Code](https://zenodo.org/records/17407771)
-- **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**
+[URL](https://jcls.io/article/id/4208/) · [DOI](https://doi.org/10.48694/jcls.4208) · [PDF](https://jcls.io/article/4208/galley/4396/download/) · [Code](https://zenodo.org/records/17407771)  
+
+- **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**  
 Julia Neugarten and Thijs Meijerink (2025).  
 Long paper, *Digital Humanities 2025*.  
-[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public)
+[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public) 
+
 - **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**  
 Julia Neugarten and Marieke van Erp (2025).  
 Oral presentation at *Digital Humanities Benelux 2025*.  
-[URL](https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public). 
+[URL](https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public)  
+
 - **The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities**  
 Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025).  
 Panel discussion at *Digital Humanities Benelux 2025*.  
-[URL]((https://zenodo.org/records/15373875))  
+[URL]((https://zenodo.org/records/15373875) · [DOI](https://doi.org/10.5281/zenodo.15373875)  
+
 - **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition**    
 Solo-authored (2024).    
-Presentation at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/).    
+Conference paper at the *[Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)*.    
 [Slides](https://zenodo.org/records/14264802)
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
 Julia Neugarten, Tess Dejaeghere, Pranaydeep Singh, Amanada Hemmons, Julie Birkholz (2024).  
 Poster at *Computational Humanities Research 2024*.  
 [PDF](https://ceur-ws.org/Vol-3834/paper23.pdf) · [Poster](https://zenodo.org/records/14266572) · [Code](https://github.com/julianeugarten/catching_feelings)  
+
 - **FicTag Visualizer: A Tool for Fanfiction Tag Analysis and Three Use Cases in Fan Interpretation**  
 Julia Neugarten, Christoph Minixhofer, David Slot (2023).  
 Poster at *Computational Humanities Research 2023*.  
 [Poster](https://zenodo.org/records/10279754) · [DOI](https://doi.org/10.5281/zenodo.10279754)    
+
 - **How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?**   
 Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot (2023).  
 Presentation, *International Society for the Empirical Study of Literature (IGEL)*.  
 [Book of abstracts](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view)    
+
 - **MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology**    
 Julia Neugarten & Roel Smeets (2023).  
 Short paper, *Digital Humanities Benelux 2023*.  
 [PDF](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) · [Code](https://github.com/julianeugarten/DH_Benelux_2023) · [Data](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0) · [Zenodo](https://zenodo.org/record/7941533) · [DOI](https://doi.org/10.5281/zenodo.7941533)   
+
 - **What Do We Talk About When We Talk About Topic?**  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage, Ole Mussmann (2022).    
 Short paper at *Computational Humanities Research 2022*  
 [PDF](https://ceur-ws.org/Vol-3290/short_paper5533.pdf) 
+
 - **What Can Online Book Reviews Reveal about Readers and Platforms?**  
 Marijn Koolen, Olivia Fialho, Julia Neugarten, Joris J. van Zundert, Willem van Hage, Ole Mussmann, Peter Boot (2022).   
-Presentation at *Computational Linguistics in the Netherlands (CLIN)*.
+Presentation at *Computational Linguistics in the Netherlands (CLIN)*.  
+
 - **“This book makes me happy and sad and I love it” A Rule-Based Model for Extracting Reading Impact from English Book Reviews**  
-Marijn Koolen, Julia Neugarten, Peter Boot (2022)    
-Presentation at the *Conference of Computational Literary Studies (CCLS2022)*.
+Marijn Koolen, Julia Neugarten, Peter Boot (2022).    
+Presentation at the *Conference of Computational Literary Studies (CCLS2022)*.  
+
 - **Defying Expectations: Stylistically Unconventional Anger in a Contemporary Dutch Novel**  
 Julia Neugarten, Lisanne M. van Rossum, Joris J. van Zundert (2022)  
 Long paper at *Digital Humanities Benelux 2022*.  
 [Abstract & Slides](https://zenodo.org/record/6594637#.Yqr1kKJBxPY) · [DOI](https://doi.org/10.5281/zenodo.6594637)  
 - **Fifty Shades of Twilight: Computationally Comparing Collocations in Twilight and 50 Shades of Grey**   
-Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert (2022)  
+Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert (2022).  
 Short presentation at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)  
+
 - **Reading Impact in Online Book Reviews: Challenges and Prospects**   
-Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage (2022)  
+Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage (2022).  
 Short presentation, part of a panel at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)    
 
@@ -118,42 +133,53 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 - **Fanfictie in de Klas** (Fanfiction in the Classroom)   
 Solo-authored article (forthcoming 2026).  
 *Levende Talen Magazine*.  
+
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored critical-creative article (2026).  
 *Radical Creativities*, vol. 2   
-[URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)
+[URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)  
+
 - **Fanfictie: Van Wie Is Jouw Verhaal?** (Fanfiction: Who Owns Your Story?)   
 Solo-authored article (2025).  
-*Vooys: Tijdschrift voor Letteren* 43.3
+*Vooys: Tijdschrift voor Letteren* 43.3  
+
 - **"Impressed by Reading" Workshop Report**   
 Co-authored with 24 workshop participants (I am the 8th author) (2025).   
-[Zenodo](https://zenodo.org/records/15527654    
+[Zenodo](https://zenodo.org/records/15527654)  
+
 - **Fanfictie en Griekse Mythologie: Een Plurimediale Vertelvorm** (Fanfiction & Greek Myth: A Plurimedial Storytelling Mode)   
 Solo-authored article (2024).  
 *De Moon: Tijdschrift over Oudheidsreceptie in Nederland*, 1.1  
+
 - **Brittle: Re-thinking Narratives of Disordered Eating through Fanfiction**  
-Solo-authored article in a graduate journal (2021)  
-*Frame Journal of Literary Studies*, 34.2   
+Solo-authored article in a graduate journal (2021).  
+*Frame Journal of Literary Studies*, 34.2.   
 [URL](https://www.frameliteraryjournal.com/34-2-writing-the-mind/34-2-julia-neugarten/)   
+
 - **The Whistle Stop Café and Luke’s Diner: The Village Café as Utopian Space for Women in Fried Green Tomatoes at the Whistle Stop Café and Gilmore Girls**   
-Solo-authored article in a graduate journal (2021)  
-*Digital Literature Review*, 8.1  
+Solo-authored article in a graduate journal (2021).  
+*Digital Literature Review*, 8.1.  
 [DOI](https://doi.org/10.33043/DLR.8.1.71-81) · [PDF](https://openjournals.bsu.edu/dlr/article/view/3472/1989)  
 
 ### Non Peer-reviewed Presentations  
 
 - **Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth**  
-Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, DE   
+Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, DE (2026).  
+
 - **Feveruary: Understanding SickFic**  
 Poster at the OSL Research Day, Utrecht University, NL (2025).  
-[Poster](https://zenodo.org/records/17464187)
+[Poster](https://zenodo.org/records/17464187)  
+
 - **Fanfiction about Greek Myth: A Computational Exploration**  
-Presentation at the CORE Collective, Aarhus University, DK (2025).    
+Presentation at the CORE Collective, Aarhus University, DK (2025).   
+
 - **The Impact of Fanfiction**   
 Presentation at the Lorentz Workshop [Impressed by Reading: Measuring the Impact](https://www.lorentzcenter.nl/site/index.php? pntHandler=WorkshopTemplatePage&pntType=ConPagina&id=2070), Lorentz Center, NL (2025).  
+
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction about Greek Myth**  
-Hybrid presentation on the research I did as part of my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at the Ghent Center for Digital Humanties, BE (2024).  
+Hybrid presentation on my TNA fellowship with the [CLS Infra Project](https://clsinfra.io/) at the Ghent Center for Digital Humanties, BE (2024).  
 [Youtube Recording](https://www.youtube.com/watch?v=_jRxbVUAT_Y) · [Slides](https://zenodo.org/records/12163945) · [Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf)   
+
 - **“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives**  
 Presentation at the OSL Day *Health Humanities in Practice*, Utrecht University, NL (2023).  
 [Abstract & Slides](https://zenodo.org/records/14959574) · [DOI](https://doi.org/10.5281/zenodo.14959574). 
@@ -163,7 +189,7 @@ Workshop at the online Fan Studies Network North America conference (2023).
 - **Towards a Digital Infrastructure for Humanities Research? A Case Study in Online Fanfiction Communities**  
 Talk at the Venice Center for Digital and Public Humanities at Ca'Foscari University, IT (2022).   
 - **Harry Potter Fanfiction, Emotionality & Toxic Masculinity**  
-Conference presentation at the Student Conference on Dissidence, Gender and Sexuality, University of Amsterdam, NL (2021).   
+Conference presentation at the *Student Conference on Dissidence, Gender and Sexuality*, University of Amsterdam, NL (2021).   
 
 ### Awards and Fellowships  
 
@@ -182,7 +208,7 @@ Awarded by the *Special Interest Group Digital Literary Studies*
 Awarded for organizing the conference [Fanfiction and the Ancient World](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
 - **Transnational Access Fellowship** (2023)   
 In the project *CLS Infra: Computational Literary Studies Infrastructure*    
-[Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf)   
+[Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/)  
 - **Royal Dutch Academy of Sciences Education Award** (2014)  
 Awarded for the project *The Jane Austen Novel*  
 [Announcement](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
@@ -208,7 +234,7 @@ Funded through the [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-ti
 PhD, funded through [Anchoring Innovation](https://anchoringinnovation.nl/) (2022-2026).    
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth**  
 Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center for Digital Humanities (2024).      
-[Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/).  
+[Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/)  
 - **[Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)**  
 Intern and later affiliated researcher (2020-2022).    
 - **CLARIAH**. 
@@ -218,8 +244,8 @@ Research Assistant (2021).
 
 ### Valorization
 
-- **Workshop: Fanfictie Schrijven over de Oudheid** (Writing Fanfiction about Antiquity)  
-Rijksmuseum van Oudheden (2026).  
+- **Fanfictie Schrijven over de Oudheid** (Writing Fanfiction about Antiquity)  
+Workshop at the Rijksmuseum van Oudheden (2026).  
 [URL](https://www.rmo.nl/uw-bezoek/activiteiten/fanfictie-schrijven-over-de-oudheid/)    
 - **Oudheid op het Internet** (Antiquity Online).  
 Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/ nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) (2026).  
