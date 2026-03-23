@@ -248,7 +248,7 @@ Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center f
 [Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/)  
 - **[Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)**  
 Intern and later affiliated researcher (2020-2022).    
-- **CLARIAH**. 
+- **CLARIAH**   
 Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) (2020-2022).       
 - **[TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)**  
 Research Assistant (2021).  
