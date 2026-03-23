@@ -70,8 +70,8 @@ Oral presentation at *Digital Humanities Benelux 2025*.
 Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025).  
 Panel discussion at *Digital Humanities Benelux 2025*.  
 [URL]((https://zenodo.org/records/15373875))  
-- **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition** (2024)  
-Solo-authored.  
+- **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition**    
+Solo-authored (2024).    
 Presentation at the [Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/).    
 [Slides](https://zenodo.org/records/14264802)
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
@@ -197,8 +197,8 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 Funded through the [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)  
 - 2022-2026: **[Anchoring and Innovating Greek Myth in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction)**   
 Funded throigh [Anchoring Innovation](https://anchoringinnovation.nl/)    
-- 2024: **Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth** 
-Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center for Digital Humanities 
+- 2024: **Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth**  
+Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center for Digital Humanities   
 [Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/).  
 - 2020-2022: Intern and later affiliated researcher in [Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)    
 - 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
@@ -206,30 +206,30 @@ Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center f
 
 ### Valorization
 
--**Oudheid op het Internet** (Antiquity Online).  
+- **Oudheid op het Internet** (Antiquity Online).  
 Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Association)](https://nederlandsklassiekverbond.nl/agenda/ nkv-en-cafe-fanfictie-oudheid-op-het-internet-julia-neugarten/) (2026).  
--**Reading with Computers**  
+- **Reading with Computers**  
 Blogpost on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies (2025).   
 [URL](https://dls.hypotheses.org/2046)  
 - **Faces of Science**   
 [Profile](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
-- **Fanfiction: Shared Universes** 
+- **Fanfiction: Shared Universes**   
 Blogpost on *Culture Weekly* together with Rūta Tidriķe (2025).   
 [URL](https://culture-weekly.com/2025/04/15/fanfiction-shared-universes/) 
-- **Fanfictie: wie, wat, waar, waarom?** (Fanfiction: Who, What, Where, Why?)
+- **Fanfictie: wie, wat, waar, waarom?** (Fanfiction: Who, What, Where, Why?)  
 Masterclass about fanfiction for secondary education (2025).    
-- **Fanfiction: Shared Universes**
+- **Fanfiction: Shared Universes**  
 Creative Culture Talk at LUX Nijmegen (2024).  
 - **Fandom, Feit en Fictie** (Fandom, Fact and Fiction)  
 Lesson Plan for secondary education (2024).  
 [URL](https://www.ru.nl/opleidingen/voor-schooldecanen-leraren-en-docenten/middelbare-scholen/lesmaterialen/vakoverstijgend-lesmateriaal/feit-en-fictie)  
-- **Podcast Interview**
+- **Podcast Interview**  
  *Oudheid* (Antiquity) podcast with Timo Epping (2024).   
 [Spotify](https://open.spotify.com/episode/2DfF797F8MOt7ZSpGGeDw2?si=iay1PgYNRUKoQ0GmAZS8Sw)  
-- **Magazine Interview**
+- **Magazine Interview**  
  *Aôthen* Magazine (2024).  
  [URL](https://aothenmagazine.com/#neugartenmyth)  
-- **Interview to promote the Transnational Access Fellowship**
+- **Interview to promote the Transnational Access Fellowship**  
 (2024).  
 [Youtube](https://www.youtube.com/watch?v=ewWzlg61Fxw)  
 - **Ficcability: Television, Fanfiction and Feelings**   
@@ -238,24 +238,24 @@ Blogpost on *Culture Weekly* (2024).
 - **The 2024 Writing Questionnaire**   
 Blogpost on *Culture Weekly* (2024).  
 [URL](https://culture-weekly.com/2024/04/16/writing-questionnaire-2024/)  
-- **Fanfictie: wie, wat, waar, waarom?** (Fanfiction: Who, What, Where, Why?)
-Masterclass about fanfiction for secondary school students in the *Track in Leren* program (2024). 
-**Fantastic Fanfictions and How to Study Them: Podcast Interview**
+- **Fanfictie: wie, wat, waar, waarom?** (Fanfiction: Who, What, Where, Why?)  
+Masterclass about fanfiction for secondary school students in the *Track in Leren* program (2024).  
+**Fantastic Fanfictions and How to Study Them: Podcast Interview**  
 *In A Nutshell* podcast by Vox (2024).  
- [URL](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them) · [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ) 
-- **Fanfictie: als fans de regie nemen** (Fanfiction: when fans take charge) 
+ [URL](https://www.voxweb.nl/podcast/in-a-nutshell-ep-8-fantastic-fanfictions-and-how-to-study-them) · [Spotify](https://open.spotify.com/episode/4ca9z74pSS4QCP5jxH0tG5?si=GiW9McDDS4igW5bTJ2EPHQ)  
+- **Fanfictie: als fans de regie nemen** (Fanfiction: when fans take charge)  
 *Radboud Reflects* lecture (2023).    
-[Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw) · [Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905)  
+[Youtube](https://www.youtube.com/watch?v=Dqtsjx4LJcw) · [Apple Podcasts](https://podcasts.apple.com/it/podcast/fanfictie-als-fans-de-regie-nemen-letterkundige/id1529085931?i=1000629081905)   
 - **Fanfictie over Griekse Mythologie: Oudheid van en voor Iedereen** (Fanfiction about Greek Myth: Antiquity for Everyone)  
-Blogpost on *Wegen naar Rome* (*Roads to Rome*) (2023).   
-[URL](https://www.weekvandeklassieken.nl/blog/2023_123)
-- **Twitter Takeover**
+Blogpost on *Wegen naar Rome* (*Roads to Rome*) (2023).     
+[URL](https://www.weekvandeklassieken.nl/blog/2023_123)  
+- **Twitter Takeover**   
 Part of the *Anchoring Innovation* Twitter-takeover on [NL_Wetenschap](https://twitter.com/NL_Wetenschap) (2022).    
 [URL](https://twitter.com/NL_Wetenschap/status/1590658361217150984)     
-- **Impact & Fiction**
+- **Impact & Fiction**  
 Project blogposts and editing (2021-2022).  
 [URL](https://impactandfiction.huygens.knaw.nl/)  
-- **Zijn de bots van NBD Biblion een goede ontwikkeling?** (Are NBD Biblion's Bots a Good Development?) 
+- **Zijn de bots van NBD Biblion een goede ontwikkeling?** (Are NBD Biblion's Bots a Good Development?)  
 Blogpost co-authored with Karina van Dalen-Oskam, Marijn Koolen and Joris J. van Zundert (2022).    
 [URL](https://www.huygens.knaw.nl/zijn-de-bots-van-nbd-biblion-een-goede-ontwikkeling/#:~:text=Vanuit%20die%20ervaring%20en%20expertise,zelfs%20een%20goede%20ontwikkeling%20is.)  
 
