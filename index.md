@@ -34,4 +34,4 @@ Solo-authored article (2025).
 
 For a more extensive overview of my research output, go to [Publications](https://julianeugarten.github.io/publications/).
 
----
+
