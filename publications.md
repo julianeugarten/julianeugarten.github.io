@@ -116,7 +116,7 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 ### Non Peer-reviewed Publications 
 
 - **Fanfictie in de Klas** (Fanfiction in the Classroom)   
-Solo-authored article (forthcoming 2026). 
+Solo-authored article (forthcoming 2026).  
 *Levende Talen Magazine*.  
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored critical-creative article (2026).  
@@ -193,16 +193,19 @@ Conference presentation at the Student Conference on Dissidence, Gender and Sexu
 
 ### Research Projects 
 
-- 2026: **Gandalf Verslaat Grunberg: Waarom Jongeren Liever Fanfictie Lezen**  
-Funded through the [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/)  
-- 2022-2026: **[Anchoring and Innovating Greek Myth in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction)**   
-Funded throigh [Anchoring Innovation](https://anchoringinnovation.nl/)    
-- 2024: **Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth**  
-Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center for Digital Humanities   
+- **Gandalf Verslaat Grunberg: Waarom Jongeren Liever Fanfictie Lezen**  
+Funded through the [Tiele Fellowship](https://tiele-stichting.nl/bekendmaking-tiele-fellows-2026/) (2026).    
+- **[Anchoring and Innovating Greek Myth in Fanfiction](https://anchoringinnovation.nl/projects/gods-heroes-myths-anchoring-and-innovating-classical-motifs-in-fanfiction)**   
+PhD, funded through [Anchoring Innovation](https://anchoringinnovation.nl/) (2022-2026).    
+- **Catching Feelings: Aspect-Based Sentiment Analysis for Comments on Fanfiction about Greek Myth**  
+Funded through a CLS Infra Transnational Access Fellowship at the Ghent Center for Digital Humanities (2024).      
 [Fellowship Report](https://clsinfra.io/wp-content/uploads/2024/11/TNA-ACTIVITY-REPORT_Neugarten.pdf) · [Project Page](https://clsinfra.io/tna-fellow-julia-neugarten/).  
-- 2020-2022: Intern and later affiliated researcher in [Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)    
-- 2020-2022: Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) in [CLARIAH](https://www.clariah.nl/)    
-- 2021: Research Assistant in [TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)  
+- **[Impact and Fiction](https://impactandfiction.huygens.knaw.nl/)**  
+Intern and later affiliated researcher (2020-2022).    
+- **CLARIAH**. 
+Project Manager for the [Work Package: Text](https://www.clariah.nl/wp6-text) (2020-2022).       
+- **[TRACE: Tracking Radio Archival Collections in Europe](https://trace.humanities.uva.nl/)**  
+Research Assistant (2021).  
 
 ### Valorization
 
@@ -212,6 +215,7 @@ Invited lecture for the [Nederlands Klassiek Verbond (Dutch Classical Associatio
 Blogpost on the blog for the ADHO Special Interest Group (SIG) in Digital Literary Studies (2025).   
 [URL](https://dls.hypotheses.org/2046)  
 - **Faces of Science**   
+Science communication for the Royal Dutch Academy of Sciences (2025-present).   
 [Profile](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/)  
 - **Fanfiction: Shared Universes**   
 Blogpost on *Culture Weekly* together with Rūta Tidriķe (2025).   
