@@ -9,7 +9,7 @@ permalink: /creativewriting/
 #### Creative Non-Fiction and Essays
 
 - **The Multiverse of Fanfiction**  
-Essay in *Entering the Multiverse: Perspectives on Alternate Universes and Parallel Worlds*, edited by Paul Booth, Routledge (2024).
+Essay in *Entering the Multiverse: Perspectives on Alternate Universes and Parallel Worlds*, edited by Paul Booth, Routledge (2024).  
 [URL](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003480846-36/multiverse-fanfiction-julia-neugarten) · [DOI]( https://doi.org/10.4324/9781003480846)  
 
 - **Rom-Communism: Ted Lasso and the Future of the Romantic Comedy**  
@@ -32,7 +32,7 @@ Period blogposts, (2018-2019).
 
 #### Fiction
 
-- **Prospects & Presumptions**
+- **Prospects & Presumptions**  
 Novella, self-published with Lulu Press (2014).  
 [Order here](https://www.lulu.com/shop/julia-neugarten/prospects-presumptions/paperback/product-21486515.html)  
 
