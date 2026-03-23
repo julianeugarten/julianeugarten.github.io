@@ -34,5 +34,5 @@ Period blogposts, (2018-2019).
 
 - **Prospects & Presumptions**
 Novella, self-published with Lulu Press (2014).  
-[Order here.](https://www.lulu.com/shop/julia-neugarten/prospects-presumptions/paperback/product-21486515.html)  
+[Order here](https://www.lulu.com/shop/julia-neugarten/prospects-presumptions/paperback/product-21486515.html)  
 
