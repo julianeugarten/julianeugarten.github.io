@@ -343,6 +343,7 @@ Co-edited volumes: [vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creati
 - European Association for Digital Humanities (EADH) (2025-present).    
 - Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present).  
 - OSL: Dutch Research School for Literary Studies (2022-present).  
+[Profile](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/)
 - OIKOS: National Research School in Classical Studies in the Netherlands (2022-present).  
 - Management team for research group SCARAB: Studying Cultural Infrastructure and Reception Across Borders (2022-2024).  
 - Student-member of the assessment panel that conducted the educational inspection for the research MA in Dutch at Utrecht University (2022).  
