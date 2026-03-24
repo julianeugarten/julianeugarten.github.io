@@ -345,7 +345,7 @@ Editor of the blog of the department of Arts and Culture Studies at Radboud Univ
 - **Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program**  
 (2023-2024).  
 
-**Peer review** conducted for the *Journal of Fandom Studies, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*.     
+**Peer review** conducted for the *Journal of Fandom Studies, Transformative Works and Cultures, New Media & Society, M/C Journal, Radical Creativities, the Digital Humanities Benelux* conference and journal, and the conferences *Computational Humanities Research* and *Digital Humanities*.     
 
 
 ### Professional Memberships  
