@@ -27,7 +27,7 @@ Essay in *Good Eats: 32 Writers on Eating Ethically*, edited by Jennifer Cognard
 [URL](https://culture-weekly.com/2024/05/31/ficcability-television-fanfiction-and-feelings/)  
 
 - **Writer's Block**  
-Period blogposts, (2018-2019).  
+Periodic blogposts, (2018-2019).  
 [URL](https://writersblockmagazine.com/category/julia-neugarten/)    
 
 #### Fiction

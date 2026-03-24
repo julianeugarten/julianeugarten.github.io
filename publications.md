@@ -225,7 +225,7 @@ Awarded for the project *The Jane Austen Novel*
 [Announcement](https://www.knaw.nl/winnaars-knaw-onderwijsprijs-2014-2018)    
 
 
-#### Reviews 
+### Reviews 
 
 - **Review of *Identity, Community, and Sexuality in Slash Fan Fiction: Pocket Publics* by Anne Kustritz** (2025)  
 *Journal of Fandom Studies*, 13.1 (2025).  
