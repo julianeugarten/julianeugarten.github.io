@@ -62,7 +62,7 @@ Short paper at *DH Benelux 2026*.
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
 Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).  
 Long paper at *Computational Humanities Research 2025*.  
-[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf) · [Code](https://github.com/centre-for-humanities-computing/fanfic_sentiment)  
+[URL](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/) · [DOI](https://doi.org/10.63744/vimmV7M89Fq9) · [PDF](https://anthology.ach.org/volumes/vol0003/happily-ever-after-comparing-sentiment-arcs-in/10.63744@vimmV7M89Fq9.pdf) · [Code](https://github.com/centre-for-humanities-computing/fanfic_sentiment) · [Data](https://data.ru.nl/collections/ru/rich/sentiment_analysis_fanfiction_texts_dsc_426)  
 
 - **A Powerful Hades is an Unpopular Dude: Dynamics of Power and Agency in Hades/Persephone Fanfiction**   
 Solo-authored (2025).  
