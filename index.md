@@ -7,13 +7,13 @@ Hi!
 
 My name is Julia Neugarten. I am currently conducting my PhD research at [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  My dissertation is titled _Anchoring and Innovating Greek Myth in Fanfiction._
 
-I am one of the [Faces of Science of thee Royal Dutch Academy of Sciences](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/), a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies. I am also part of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
+I am one of the [Faces of Science of the Royal Dutch Academy of Sciences](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/), a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies. I am also part of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
 In my free time, I enjoy creative writing, cooking, swimming, and pottery.
 
 ## Research Interest
 
-My research centers around the analysis of fanfiction and a variety of other fan practices. I am also interested in the ways that methods from the digital humanities, particularly computational literary studies, can be applied to the study of fanfiction.
+My research centers around the analysis of fanfiction and fan culture. I am also interested in the ways that methods from the digital humanities, particularly computational literary studies, can be applied to the study of (fan)fiction.
 
 ---
 
