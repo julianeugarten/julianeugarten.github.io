@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Peer-reviewed Journal Articles
 - **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
-Julia Neugarten, Lisanne L. van Rossum, Joris J. van Zundert (forthcoming 2026).  
+Julia Neugarten & Joris J. van Zundert (forthcoming 2026).  
 *Digital Scholarship in the Humanities*.  
 
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
@@ -54,6 +54,7 @@ In *Research Methods in Literary Reception Studies*, edited by Jeroen Dera, Anne
 - **Problems and Prospects of Computational Fanfiction Research**  
 Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026).  
 Full-day workshop at *DH Benelux 2026*.  
+[URL](https://zenodo.org/records/19249249) · [DOI](https://doi.org/10.5281/zenodo.19249249)   
 
 - **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**  
 Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
