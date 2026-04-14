@@ -73,7 +73,7 @@ Conference Paper, *Conference of Computational Literary Studies 2025*.
 - **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**  
 Julia Neugarten and Thijs Meijerink (2025).  
 Long paper, *Digital Humanities 2025*.  
-[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public) 
+[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public) · [Book of Abstracts](https://zenodo.org/records/19494802) · [DOI](https://doi.org/10.5281/zenodo.19494802)  
 
 - **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**  
 Julia Neugarten and Marieke van Erp (2025).  
