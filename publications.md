@@ -148,7 +148,7 @@ Solo-authored article (forthcoming 2026).
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored critical-creative article (2026).  
 *Radical Creativities*, vol. 2   
-[URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher)  
+[URL](https://www.radicalcreativities.com/post/interview-with-the-fan-a-dialogue-between-myself-as-a-fan-and-myself-as-a-researcher) · [Full issue URL](https://www.radicalcreativities.com/publications-rc) · [Full issue PDF](https://www.radicalcreativities.com/_files/ugd/e93529_063ffa61c9c748d2a22010e024f97bf8.pdf)   
 
 - **Fanfictie: Van Wie Is Jouw Verhaal?** (Fanfiction: Who Owns Your Story?)   
 Solo-authored article (2025).  
