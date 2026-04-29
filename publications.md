@@ -46,19 +46,20 @@ Marijn Koolen, Julia Neugarten, Peter Boot (2022).
 
 -  **Computational Analysis: Fanfiction as Literary Reception**  
 In *Research Methods in Literary Reception Studies*, edited by Jeroen Dera, Anne Oerlemans and Frederik van Dam, Leuven University Press (forthcoming 2026).  
-[DOI](10.11116/9789461667656)  
+[DOI](https://doi.org/10.11116/9789461667656)  
 
 
 ### Peer-reviewed Conference Papers and Presentations 
 
 - **Problems and Prospects of Computational Fanfiction Research**  
-Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (forthcoming 2026).  
+Mia Jacobsen, Julia Neugarten, Pascale Feldkamp, Yuri Bizzoni and Ross Kristensen-McLachlan (2026).  
 Full-day workshop at *DH Benelux 2026*.  
 [URL](https://zenodo.org/records/19249249) · [DOI](https://doi.org/10.5281/zenodo.19249249)   
 
 - **Blood and gore: The prevalence of violence in fanfiction across gender categories and engagement**  
-Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (forthcoming 2026).  
+Mia Jacobsen, Julia Neugarten, Yuri Bizzoni (2026).  
 Short paper at *DH Benelux 2026*.  
+[URL](https://zenodo.org/records/19627269) · [DOI](https://doi.org/10.5281/zenodo.19627269)     
 
 - **Happily Ever After: Comparing Sentiment Arcs in Emotionally-Inflected Fanfiction Genres Across Fandoms**  
 Julia Neugarten, Mia Jacobsen, Pascale Feldkamp and Yuri Bizzoni (2025).  
@@ -73,21 +74,21 @@ Conference Paper, *Conference of Computational Literary Studies 2025*.
 - **Giddy Gods and Happy Heroes: Detecting Character-Emotions in Fanfiction about Greek Myth with Vector Space Models**  
 Julia Neugarten and Thijs Meijerink (2025).  
 Long paper, *Digital Humanities 2025*.  
-[URL](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public) · [Book of Abstracts](https://zenodo.org/records/19494802) · [DOI](https://doi.org/10.5281/zenodo.19494802)  
+[URL](https://zenodo.org/records/19494802) · [DOI](https://doi.org/10.5281/zenodo.19494802) · [Slides](https://zenodo.org/records/16037061) · [Code](https://github.com/th555/myth2vec_public)  
 
 - **What Fans Think Greek Myth Smells Like: sea, smoke, and flower shampoo**  
 Julia Neugarten and Marieke van Erp (2025).  
 Oral presentation at *Digital Humanities Benelux 2025*.  
-[URL](https://zenodo.org/records/15424192) · [Code](https://github.com/julianeugarten/smellfic_public)  
+[URL](https://zenodo.org/records/15424192) · [DOI](https://doi.org/10.5281/zenodo.15424192) · [Code](https://github.com/julianeugarten/smellfic_public)  
 
 - **The Powers That Scrape: Ethical Considerations in Using Fan-Generated Data in the Digital Humanities**  
 Julia Neugarten, Mona Allaert, Xiaoyan Yang and Divya Mathur (2025).  
 Panel discussion at *Digital Humanities Benelux 2025*.  
-[URL]((https://zenodo.org/records/15373875) · [DOI](https://doi.org/10.5281/zenodo.15373875)  
+[URL](https://zenodo.org/records/15373875) · [DOI](https://doi.org/10.5281/zenodo.15373875)  
 
 - **How Does Fanfiction Reuse Greek Mythology? Towards a Computational Operationalization of Narrative Repetition**    
 Solo-authored (2024).    
-Conference paper at the *[Digital Methods for Mythological Research Workshop (DM4Myth)](https://dm4myth.github.io/)*.    
+Conference paper at the *[Digital Methods for Mythological Research Workshop](https://dm4myth.github.io/)*.    
 [Slides](https://zenodo.org/records/14264802)  
 
 - **Catching Feelings: Aspect-Based Sentiment Analysis for Fanfiction Comments about Greek Myth**  
@@ -103,12 +104,12 @@ Poster at *Computational Humanities Research 2023*.
 - **How Can Online Book Reviews Validate Empirical In-depth Fiction Reading Typologies?**   
 Marijn Koolen, Olivia da Costa Fialho, Julia Neugarten, Joris Van Zundert, Willem van Hage, Ole Mussmann, Peter Boot (2023).  
 Presentation, *International Society for the Empirical Study of Literature (IGEL)*.  
-[Book of abstracts](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view)    
+[Book of abstracts URL](https://drive.google.com/file/d/1_SvtH-9LewmhyBP8lBNFwmhZcu_SOF1r/view)    
 
 - **MythFic Metadata: Exploring Gendered Violence in Fanfiction about Greek Mythology**    
 Julia Neugarten & Roel Smeets (2023).  
 Short paper, *Digital Humanities Benelux 2023*.  
-[PDF](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) · [Code](https://github.com/julianeugarten/DH_Benelux_2023) · [Data](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0) · [Zenodo](https://zenodo.org/record/7941533) · [DOI](https://doi.org/10.5281/zenodo.7941533)   
+[PDF](https://2023.dhbenelux.org/wp-content/uploads/2023/05/DHB2023_paper_2257.pdf) · [DOI](https://doi.org/10.5281/zenodo.7941533) · [Code](https://github.com/julianeugarten/DH_Benelux_2023) · [Data](https://data.ru.nl/collections/ru/rich/mythfic_metadata_dsc_550?0) · [Zenodo](https://zenodo.org/record/7941533)    
 
 - **What Do We Talk About When We Talk About Topic?**  
 Joris J. van Zundert, Marijn Koolen, Julia Neugarten, Peter Boot, Willem van Hage, Ole Mussmann (2022).    
@@ -127,6 +128,7 @@ Presentation at the *Conference of Computational Literary Studies (CCLS2022)*.
 Julia Neugarten, Lisanne M. van Rossum, Joris J. van Zundert (2022)  
 Long paper at *Digital Humanities Benelux 2022*.  
 [Abstract & Slides](https://zenodo.org/record/6594637#.Yqr1kKJBxPY) · [DOI](https://doi.org/10.5281/zenodo.6594637)  
+
 - **Fifty Shades of Twilight: Computationally Comparing Collocations in Twilight and 50 Shades of Grey**   
 Barbara Bordalejo, Julia Neugarten, Joris J. van Zundert (2022).  
 Short presentation at *Digital Humanities 2022*.  
@@ -341,7 +343,7 @@ Carried out at the Huygens Institute (2021-2022).
 Organized together with Amanda Potter (2024).  
 [CfP](https://docs.google.com/document/d/1HgNU4YJSQGLpLo-Fizs18RVGYNK4I0pMTe2XKVViue4/edit#heading=h.swjnpbrhknfc) · [URL](https://www.oslit.nl/conference-fanfiction-and-the-ancient-world/)  
 - **Culture Weekly**  
-Editor of the blog of the department of Arts and Culture Studies at Radboud University (2023 - present).     
+Editor of the blog of the department of Arts and Culture Studies at Radboud University (2023 - 2026).     
 [URL](https://culture-weekly.com/)  
 - **Mentor/Mentee in the Fan and Audience Studies SIG Mentorship Program**  
 (2023-2024).  
