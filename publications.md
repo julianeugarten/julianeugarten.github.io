@@ -45,7 +45,7 @@ Marijn Koolen, Julia Neugarten, Peter Boot (2022).
 ### Peer-reviewed Book Chapters  
 
 -  **Computational Analysis: Fanfiction as Literary Reception**  
-In *Research Methods in Literary Reception Studies*, edited by Jeroen Dera, Anne Oerlemans and Frederik van Dam, Leuven University Press (forthcoming 2026).  
+In *Research Methods in Literary Reception Studies*, edited by Jeroen Dera, Anne Oerlemans and Frederik van Dam, Leuven University Press (2026).  
 [URL](https://muse.jhu.edu/pub/258/oa_edited_volume/chapter/4363645/pdf) · [PDF](https://muse.jhu.edu/chapter/4363645/pdf/download)   
 
 
