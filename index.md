@@ -19,6 +19,10 @@ My research centers around the analysis of fanfiction and fan culture. I am also
 
 ## Recent Research Output
 
+- **The Style of Scorn: Computationally Operationalizing the Relationship between Anger and Complexity in ‘Ik Ga Leven’ by Lale Gül**   
+Julia Neugarten & Joris J. van Zundert (2026).  
+*Digital Scholarship in the Humanities*.    
+[URL](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqag082/8709334) · [DOI](https://doi.org/10.1093/llc/fqag082) · [PDF](https://academic.oup.com/dsh/advance-article-pdf/doi/10.1093/llc/fqag082/68537876/fqag082.pdf) · [Code](https://github.com/jorisvanzundert/Gul_Complexity)  
 - **Fifty Shades of Twilight: A Computational Approach to Textual Adaptation**  
 Julia Neugarten, Barbara Bordalejo, Joris J. van Zundert (2025).  
 *Digital Studies / Le champ numérique*, 15.1.    
