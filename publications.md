@@ -45,6 +45,10 @@ Marijn Koolen, Julia Neugarten, Peter Boot (2022).
 
 ### Peer-reviewed Book Chapters  
 
+-  **“Great Suffering and Great Love” Gendered Forms of Emotion in Fanfiction about Greek Myth.**  
+In *Contemporary Feminist Retellings of Greek Myth: Bestselling Muses and their Ideologoies*, edited by Jacqueline Klooster and Evelien Bracke, Bloomsbury Academic (forthcoming 2027).  
+-  **Cure: Thinking Through Climate Crisis with the Ancient Greeks**  
+In *Reading Fanfiction/Fanfiction Reading*, edited by Kristina Busse and Francesca Coppa, University of Michigan Press (forthcoming 2026).  
 -  **Computational Analysis: Fanfiction as Literary Reception**  
 In *Research Methods in Literary Reception Studies*, edited by Jeroen Dera, Anne Oerlemans and Frederik van Dam, Leuven University Press (2026).  
 [URL](https://muse.jhu.edu/pub/258/oa_edited_volume/chapter/4363645/pdf) · [PDF](https://muse.jhu.edu/chapter/4363645/pdf/download)   
@@ -146,6 +150,9 @@ Short presentation, part of a panel at *Digital Humanities 2022*.
 Solo-authored article (forthcoming 2026).  
 *Levende Talen Magazine*.  
 
+- **Fanfiction**   
+Co-authored with Franziska Pannach, lemma in the *Metzler Lexikon Mythentheorien*, edited by A. Renger and R. Ißler, Springer (forthcoming 2026).  
+
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored critical-creative article (2026).  
 *Radical Creativities*, vol. 2   
@@ -174,6 +181,10 @@ Solo-authored article in a graduate journal (2021).
 [DOI](https://doi.org/10.33043/DLR.8.1.71-81) · [PDF](https://openjournals.bsu.edu/dlr/article/view/3472/1989)  
 
 ### Non Peer-reviewed Presentations  
+
+-**A Genre of Our Own: Fanonization and the Omegaverse** 
+Co-authored wth Anastasia Glawion  
+Presentation at the symposium *Mapping the Canon: Quantitative Approaches to Literary History*, organized by Judith Brottrager at TU Darmstadt, DE (2026).  
 
 - **Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth**  
 Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, DE (2026).  
@@ -259,6 +270,12 @@ Research Assistant (2021).
 
 ### Valorization
 
+- **Interview: De wereld van fanfictie: waar verhalen doorlopen na het laatste hoofdstuk (The world of fanfiction: where stories continue after the last chapter)**   
+*Red Pers* (2026).   
+[URL](https://redpers.nl/de-wereld-van-fanfictie-waar-verhalen-doorlopen-na-het-laatste-hoofdstuk/)   
+- **Magazine Interview: Hoe Fanfictie het Internet Verovert (How Fanfiction is Conquering the Internet)**   
+*Quest Magazine* (2026).   
+[URL](www.quest.nl/mens/lifestyle/a71091979/hoe-fanfictie-het-internet-verovert/)   
 - **Fanfictie Schrijven over de Oudheid** (Writing Fanfiction about Antiquity)  
 Workshop at the Rijksmuseum van Oudheden (2026).  
 [URL](https://www.rmo.nl/uw-bezoek/activiteiten/fanfictie-schrijven-over-de-oudheid/)    
