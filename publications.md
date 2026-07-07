@@ -181,8 +181,8 @@ Solo-authored article in a graduate journal (2021).
 [DOI](https://doi.org/10.33043/DLR.8.1.71-81) · [PDF](https://openjournals.bsu.edu/dlr/article/view/3472/1989)  
 
 ### Non Peer-reviewed Presentations  
-
--**A Genre of Our Own: Fanonization and the Omegaverse** 
+ 
+- **A Genre of Our Own: Fanonization and the Omegaverse**   
 Co-authored wth Anastasia Glawion  
 Presentation at the symposium *Mapping the Canon: Quantitative Approaches to Literary History*, organized by Judith Brottrager at TU Darmstadt, DE (2026).  
 
@@ -270,10 +270,10 @@ Research Assistant (2021).
 
 ### Valorization
 
-- **Interview: De wereld van fanfictie: waar verhalen doorlopen na het laatste hoofdstuk (The world of fanfiction: where stories continue after the last chapter)**   
+- **Interview: De wereld van fanfictie: waar verhalen doorlopen na het laatste hoofdstuk**  (The world of fanfiction: where stories continue after the last chapter)  
 *Red Pers* (2026).   
 [URL](https://redpers.nl/de-wereld-van-fanfictie-waar-verhalen-doorlopen-na-het-laatste-hoofdstuk/)   
-- **Magazine Interview: Hoe Fanfictie het Internet Verovert (How Fanfiction is Conquering the Internet)**   
+- **Magazine Interview: Hoe Fanfictie het Internet Verovert** (How Fanfiction is Conquering the Internet)   
 *Quest Magazine* (2026).   
 [URL](www.quest.nl/mens/lifestyle/a71091979/hoe-fanfictie-het-internet-verovert/)   
 - **Fanfictie Schrijven over de Oudheid** (Writing Fanfiction about Antiquity)  
