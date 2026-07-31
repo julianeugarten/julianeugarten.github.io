@@ -46,7 +46,7 @@ Marijn Koolen, Julia Neugarten, Peter Boot (2022).
 ### Peer-reviewed Book Chapters  
 
 -  **“Great Suffering and Great Love” Gendered Forms of Emotion in Fanfiction about Greek Myth.**  
-In *Contemporary Feminist Retellings of Greek Myth: Bestselling Muses and their Ideologoies*, edited by Jacqueline Klooster and Evelien Bracke, Bloomsbury Academic (forthcoming 2027).  
+In *Contemporary Feminist Retellings of Greek Myth: Bestselling Muses and their Ideologies*, edited by Jacqueline Klooster and Evelien Bracke, Bloomsbury Academic (forthcoming 2027).  
 -  **Cure: Thinking Through Climate Crisis with the Ancient Greeks**  
 In *Reading Fanfiction/Fanfiction Reading*, edited by Kristina Busse and Francesca Coppa, University of Michigan Press (forthcoming 2026).  
 -  **Computational Analysis: Fanfiction as Literary Reception**  
@@ -185,6 +185,7 @@ Solo-authored article in a graduate journal (2021).
 - **A Genre of Our Own: Fanonization and the Omegaverse**   
 Co-authored wth Anastasia Glawion  
 Presentation at the symposium *Mapping the Canon: Quantitative Approaches to Literary History*, organized by Judith Brottrager at TU Darmstadt, DE (2026).  
+[DOI](https://doi.org/10.5281/zenodo.21623222) · [URL](https://zenodo.org/records/21623222)   
 
 - **Climate Alternate Universe: Ecocriticism and Fanfiction about Greek Myth**  
 Invited online keynote at the [Fanficforum Conference](https://fanficforum-ffm.de/fanficforum-in-konferenz-2026/), Goethe University, DE (2026).  
