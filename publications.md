@@ -206,7 +206,7 @@ Hybrid presentation on my TNA fellowship with the [CLS Infra Project](https://cl
 
 - **“I thoroughly enjoyed the pain”: Representation and Affiliation in Fanfiction’s Illness Narratives**  
 Presentation at the OSL Day *Health Humanities in Practice*, Utrecht University, NL (2023).  
-[Abstract & Slides](https://zenodo.org/records/14959574) · [DOI](https://doi.org/10.5281/zenodo.14959574). 
+[Abstract & Slides](https://zenodo.org/records/14959574) · [DOI](https://doi.org/10.5281/zenodo.14959574)  
 
 - **Topic Modeling for Exploratory Fanfiction Analysis**  
 Workshop at the online Fan Studies Network North America conference (2023).     
