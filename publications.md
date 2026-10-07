@@ -144,14 +144,14 @@ Peter Boot, Olivia Fialho, Marijn Koolen, Julia Neugarten, Willem van Hage (2022
 Short presentation, part of a panel at *Digital Humanities 2022*.  
 [Book of abstracts](https://dh2022.dhii.asia/dh2022bookofabsts.pdf)    
 
-### Non Peer-reviewed Publications 
-
-- **Fanfictie in de Klas** (Fanfiction in the Classroom)   
-Solo-authored article (forthcoming 2026).  
-*Levende Talen Magazine*.  
+### Non Peer-reviewed Publications  
 
 - **Fanfiction**   
 Co-authored with Franziska Pannach, lemma in the *Metzler Lexikon Mythentheorien*, edited by A. Renger and R. Ißler, Springer (forthcoming 2026).  
+
+- **Fanfictie in de Klas** (Fanfiction in the Classroom)   
+Solo-authored article (2026).  
+*Levende Talen Magazine*.  
 
 - **Interview with the Fan: A dialogue between myself as a fan and myself as a researcher**    
 Solo-authored critical-creative article (2026).  
@@ -181,6 +181,10 @@ Solo-authored article in a graduate journal (2021).
 [DOI](https://doi.org/10.33043/DLR.8.1.71-81) · [PDF](https://openjournals.bsu.edu/dlr/article/view/3472/1989)  
 
 ### Non Peer-reviewed Presentations  
+
+- **Fan Studies as a Discipline?**  
+ Roundtable panel discussion convened by Suzanne Black, with Naomi Jacobs, Dean Leetal and Julia Neugarten  
+ *Fan Studies Network North America*, online (forthcoming 2026).  
  
 - **A Genre of Our Own: Fanonization and the Omegaverse**   
 Co-authored wth Anastasia Glawion  
@@ -350,7 +354,7 @@ Invited online lecture in the BA courses *Animation* and *3D Animation* at the D
 - **Fanfiction, Health & Illness**  
 Invited mini-lecture in the MA course *Health and Illness* at Radboud University (2024).     
 - **Career Seminar**   
-Guest lecture in the course *Literary Studies Lab* (in the rMA Literary Studies) at the University of Amsterdam (2023, 2025).      
+Guest lecture in the course *Literary Studies Lab* (in the rMA Literary Studies) at the University of Amsterdam (2023, 2025, 2026).      
 - **Impact & Fiction: Computationally operationalizing the impact of books through online reviews**  
 Invited guest lecture in the MA course *Computational Literary Studies* at the University of Antwerp, together with Marijn Koolen (2023).  
 - **Co-supervision of interships and theses**    
@@ -372,7 +376,7 @@ Editor of the blog of the department of Arts and Culture Studies at Radboud Univ
 
 ### Professional Memberships  
 - Editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/) (2023-present).  
-Co-edited volumes: [vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creation-and-alteration-in-digital-humanities/) · [vol. 6](https://journal.dhbenelux.org/volume-6-crossing-borders/) · [vol. 7](https://journal.dhbenelux.org/volume-7-breaking-silos/)  
+Co-edited volumes: [vol. 5](https://journal.dhbenelux.org/volume-5-re-mix-creation-and-alteration-in-digital-humanities/) · [vol. 6](https://journal.dhbenelux.org/volume-6-crossing-borders/) · [vol. 7](https://journal.dhbenelux.org/volume-7-breaking-silos/) · vol. 8 (forthcoming 2026).     
 - European Association for Digital Humanities (EADH) (2025-present).    
 - Alumni Advisory Board for the Language and Culture Programs of the University of Amsterdam (2023-present).  
 - OSL: Dutch Research School for Literary Studies (2022-present).  

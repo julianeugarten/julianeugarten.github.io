@@ -5,7 +5,8 @@
 
 Hi!
 
-My name is Julia Neugarten. I am currently conducting my PhD research at [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  My dissertation is titled _Anchoring and Innovating Greek Myth in Fanfiction._
+My name is Julia Neugarten. I recently submitted my PhD at [Radboud University, Nijmegen](https://www.ru.nl/) in the project [Anchoring Innovation](https://anchoringinnovation.nl/).  My dissertation is titled *Transforming Fanfiction: Power, Emotion, and the More-Than-Human World
+in Fans’ Rewritings of Greek Myth*.  
 
 I am one of the [Faces of Science of the Royal Dutch Academy of Sciences](https://www.nemokennislink.nl/facesofscience/profielen/julia-neugarten/), a member of the [Netherlands Research School for Literary Studies](https://www.oslit.nl/julia-neugarten-anchoring-and-innovating-classical-motifs-in-fanfiction/) and an associated member of [OIKOS](https://www.rug.nl/research/research-let/oikos/about/), the Dutch National Research School in Classical Studies. I am also part of the editorial board of the [Digital Humanities Benelux Journal](https://journal.dhbenelux.org/).
 
